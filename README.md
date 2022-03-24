@@ -1,4 +1,3 @@
 # https://
 # maciejjankowski.
-# github.
-# io
+# github.io
