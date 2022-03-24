@@ -1,4 +1,4 @@
-## Bio
+## Maciej Jankowski
 Gram, programuję, masuję, mentoruję
 
 ## Wesprzyj artystę
