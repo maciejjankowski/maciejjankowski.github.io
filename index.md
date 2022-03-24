@@ -2,12 +2,10 @@
 Gram, programuję, masuję, mentoruję
 
 Wesprzyj artystę :)
-* miłym słowem
-* napiwkiem
+* kupując [album](https://maciejjankowski.bandcamp.com)
+* BLIKiem 782281181
 * polecając znajomym
-* kupując album
+* miłym słowem / zdjęciem w social media
 * zapraszając na event
 
-Blik -> 782281181
-
-album: maciejjankowski.bandcamp.com
+Dzięki!

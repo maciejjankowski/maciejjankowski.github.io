@@ -1,0 +1,1 @@
+![QR](images/qr.png)
