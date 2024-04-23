@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Email Validation</title>
+</head>
+<body>
+  <h1>Email Validation - It is easy, why everybody gets it wrong</h1>
+  <div>
+<h2>Vanilla JS</h2>
+  <form>
+    <label for="email">Email:</label>
+    <input type="email" id="email">
+    <div id="email-error" class="error"></div>>
+    <input type="submit" value="Submit">
+  </form>
+
+  <script>
+    const emailInput = document.getElementById('email');
+    const emailError = document.getElementById('email-error');
+
+    emailInput.addEventListener('input', () => {
+      if (emailInput.validity.valid) {
+        emailError.textContent = '';
+      } else {
+        emailError.textContent = 'Please enter a valid email address.';
+      }
+    });
+  </script>
+</div>
+  <hr>
+  <div>
+  <h2>React</h2>
+  <script src="https://unpkg.com/react@17/umd/react.production.min.js"></script>
+  <script src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"></script>
+
+  <div id="root"></div>
+  <script src="emailFormApp.js"></script>
+</div>
+  <hr>
+
+  <div>
+<h2>Angular</h2>
+<div ng-app="emailValidationForDummies">
+    <h1>Email Validation</h1>
+    <div ng-controller="theLoneCtrl">
+        <form>
+            <label for="email">Email:</label>
+
+            <input type="email" id="email" ng-model="email">
+
+            <div ng-messages for="email">
+                <div ng-message="required">Email is required.</div>
+                <div ng-message="email">Email must be a valid email address.</div>
+            </div>
+
+            <input type="submit" value="Submit">
+
+            <div ng-if="emailValid">Email is valid.</div>
+            <div ng-if="!emailValid">Email is not valid.</div>
+
+        </div>
+        </form>
+    </div>
+</div>
+<script>
+    angular.module('emailValidationForDummies', [])
+  .controller('theLoneCtrl', function($scope) {
+    $scope.emailValid = false;
+
+    $scope.$watch('email', function() {
+      $scope.emailValid = !!$scope.email.match(/^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/);
+    });
+  });
+</script>
+</div>
+
+
+<hr>
+<div>
+<h2>Vue</h2>
+<script src="https://unpkg.com/vue@2.6.11/dist/vue.js"></script>
+<div id="appVue">
+    <h1>Email Validation</h1>
+    <form>
+        <label for="email">Email:</label>
+
+        <input type="email" id="email" v-model="email">
+        <input type="submit" value="Submit">
+
+        <div v-if="emailValid">Email is valid.</div>
+        <div v-if="!emailValid">Email is not valid.</div>
+    </form>
+</div>
+
+<script>
+    var appVue = new Vue({
+        el: '#appVue',
+        data: {
+            email: '',
+            emailValid: false
+        },
+        methods: {
+            onSubmit() {
+                this.emailValid = this.email.includes('@');
+            }
+        }
+    });
+
+/*
+new Vue({
+  el: '#appVue',
+  data: {
+    email: '',
+    emailValid: false
+  },
+  methods: {
+    validateEmail() {
+      this.emailValid = !!this.email.match(/^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/);
+    }
+  }
+});
+*/
+</script>
+</div>
+<hr>
+<div>
+
+
+
+<h2>Svelte</h2>
+<script src="https://unpkg.com/svelte/svelte.js"></script>
+<div id="appSvelte">
+    <h1>Email Validation</h1>
+<form>
+    <input type="email" id="email" bind:value={email}>
+    <input type="submit" value="Submit">
+
+    <div if:true={emailValid}>Email is valid.</div>
+    <div if:false={emailValid}>Email is not valid.</div>
+</form> 
+
+</div>
+<script>
+    import { writable } from 'svelte/store';
+
+    const email = writable('');
+    const emailValid = writable(false);
+    email.subscribe(value => {
+        emailValid.set(value.includes('@'));
+    });
+    export { email, emailValid };
+
+
+</script>
+
+</div>
+
+
+</body>
+</html>
