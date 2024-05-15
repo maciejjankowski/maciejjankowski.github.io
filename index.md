@@ -1,9 +1,12 @@
 ## Maciej Jankowski
-Gram, programuję, masuję, mentoruję
+Gram, programuję, kołczuję, mentoruję
 
-## Wesprzyj artystę
-* kup **🎶[album](https://maciejjankowski.bandcamp.com)🎧**
-* przekaż datek 💸 BLIKiem: 782 281 181 lub paypalem: maj1337 gmail.com
-* udostępnij zdjęcie lub relację
+
+* [[ai-w-biznesie]]
+* [[szkolenia]]
+* [[coaching]]
+* [[posts]]
+* [[projekty]]
+    * [artefakty i rytuały](projekty/Artefakty%20i%20rytuały/)
 
 Dzięki!
