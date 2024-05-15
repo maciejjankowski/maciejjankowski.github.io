@@ -92,3 +92,5 @@ Dotykowy kontroler z funkcją podświetlania przycisków
 Gliniany artefakt z wbudowanym sensorem temperatury
 
 
+-------
+[opis na google docs](https://docs.google.com/document/d/1uVSZmC3-yZb2usCLHNuBJdpwp3WRUvLxSlFWjutFu88/edit)
