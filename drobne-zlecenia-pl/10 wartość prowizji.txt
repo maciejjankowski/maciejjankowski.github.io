@@ -1,0 +1,8 @@
+## Copilot
+Wartość prowizji dla wykonanego zlecenia w serwisie "Drobne Zlecenia PL" powinna być konkurencyjna i sprawiedliwa zarówno dla wykonawców, jak i dla samego serwisu. Oto kilka propozycji:
+- Stała Prowizja Niska: Około 2-5% wartości zlecenia. Jest to atrakcyjne dla wykonawców, którzy otrzymują większe zlecenia, ponieważ nie obciąża ich zbyt wysokimi kosztami.
+- Stała Prowizja Średnia: Wysokość prowizji na poziomie 5-10%. To zrównoważona opcja, która zapewnia serwisowi stabilne dochody, jednocześnie nie odstraszając użytkowników.
+- Prowizja Progresywna: Prowizja, która wzrasta wraz z wartością zlecenia, na przykład 3% dla zleceń do 100 zł, 5% dla zleceń od 100 zł do 500 zł, i 7% dla zleceń powyżej 500 zł. Może to zachęcić wykonawców do przyjmowania zarówno małych, jak i dużych zleceń.
+- Prowizja Degresywna: Prowizja malejąca wraz ze wzrostem wartości zlecenia, na przykład 10% dla zleceń do 100 zł, 7% dla zleceń od 100 zł do 500 zł, i 5% dla zleceń powyżej 500 zł. To może przyciągnąć wykonawców zainteresowanych większymi projektami.
+- Abonament: Miesięczna lub roczna opłata za korzystanie z platformy zamiast prowizji od zlecenia. Może to być atrakcyjne dla aktywnych użytkowników, którzy regularnie korzystają z serwisu.
+Ostateczny wybór modelu prowizyjnego powinien być oparty na dokładnej analizie rynku, kosztów operacyjnych serwisu oraz preferencji użytkowników. Ważne jest, aby prowizja była wystarczająco niska, aby przyciągnąć wykonawców, ale jednocześnie wystarczająco wysoka, aby zapewnić rentowność serwisu. Dodatkowo, warto rozważyć wprowadzenie okresu próbnego bez prowizji lub niższej prowizji dla nowych użytkowników, aby zachęcić ich do wypróbowania serwisu.

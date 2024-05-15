@@ -1,0 +1,34 @@
+## Copilot
+Oto koncepcja serwisu "Drobne Zlecenia PL", który ma na celu wspieranie osób w trudnej sytuacji życiowej poprzez umożliwienie im znalezienia drobnych prac:
+Nazwa serwisu: Drobne Zlecenia PL
+Cel: Ułatwienie dostępu do drobnych zleceń dla osób nieuprzywilejowanych, bezrobotnych lub znajdujących się w trudnej sytuacji życiowej.
+Grupa docelowa: Osoby nieuprzywilejowane, bezrobotne, w trudnej sytuacji życiowej.
+Rodzaje zleceń:
+- Prace domowe (np. sprzątanie, gotowanie, opieka nad dziećmi)
+- Prace ogrodnicze (np. koszenie trawnika, przycinanie żywopłotu)
+- Prace budowlane (np. malowanie, drobne naprawy)
+Funkcjonalności serwisu:
+- Rejestracja i profil użytkownika: Umożliwienie użytkownikom stworzenia profilu, w którym mogą przedstawić swoje umiejętności, doświadczenie oraz dostępność.
+- Wyszukiwarka zleceń: Funkcja pozwalająca na szybkie wyszukiwanie zleceń według kategorii, lokalizacji i innych kryteriów.
+- System ocen i recenzji: Pozwala zleceniodawcom na ocenianie wykonawców, co buduje wiarygodność i pomaga innym w wyborze odpowiedniej osoby do pracy.
+- Bezpieczne płatności: System płatności gwarantujący bezpieczeństwo transakcji i terminowe wypłaty dla wykonawców.
+- Wsparcie i doradztwo: Sekcja z poradami prawnymi dotyczącymi umów zlecenia oraz informacjami o prawach i obowiązkach stron1.
+- Forum społecznościowe: Platforma umożliwiająca wymianę doświadczeń i wsparcie między użytkownikami.
+Model biznesowy:
+- Prowizja od zleceń: Niewielka prowizja od każdego zlecenia, która jest źródłem przychodu dla serwisu.
+- Reklama: Możliwość promowania usług i produktów związanych z branżą domową i budowlaną.
+- Subskrypcja premium: Opcja dla użytkowników chcących uzyskać dodatkowe funkcje, takie jak wyróżnienie profilu czy dostęp do ekskluzywnych zleceń.
+Zabezpieczenia prawne i socjalne:
+- Ubezpieczenie: Informacje o możliwościach ubezpieczenia społecznego i zdrowotnego dla wykonawców działających na umowach zlecenia2.
+- Wsparcie prawne: Dostęp do porad prawnych w zakresie umów i zabezpieczeń socjalnych.
+Promocja serwisu:
+- Współpraca z urzędami pracy: Promowanie serwisu wśród osób bezrobotnych zarejestrowanych w urzędach pracy.
+- Media społecznościowe: Aktywna obecność w mediach społecznościowych, aby dotrzeć do szerokiego grona potencjalnych użytkowników.
+- Programy partnerskie: Nawiązywanie współpracy z organizacjami pozarządowymi i firmami, które mogą polecać serwis swoim klientom lub członkom.
+Rozwój serwisu:
+- Feedback od użytkowników: Regularne zbieranie opinii i sugestii od użytkowników, aby ulepszać serwis.
+- Aktualizacje funkcjonalności: Wprowadzanie nowych funkcji w odpowiedzi na potrzeby użytkowników i zmieniający się rynek pracy.
+Wyzwania:
+- Zaufanie użytkowników: Budowanie zaufania wśród użytkowników, szczególnie w kwestii bezpieczeństwa płatności i jakości wykonywanych usług.
+- Przestrzeganie przepisów: Zapewnienie, że serwis działa zgodnie z obowiązującymi przepisami prawa pracy i ubezpieczeń społecznych.
+Serwis "Drobne Zlecenia PL" ma za zadanie nie tylko umożliwić znalezienie pracy osobom potrzebującym, ale również zapewnić im wsparcie i bezpieczeństwo w trakcie wykonywania zleceń. Dzięki temu może stać się ważnym narzędziem w walce z bezrobociem i wykluczeniem społecznym.

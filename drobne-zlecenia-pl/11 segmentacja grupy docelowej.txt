@@ -1,0 +1,33 @@
+## Copilot
+Segmentacja grupy docelowej dla serwisu "Drobne Zlecenia PL" może być przeprowadzona na podstawie różnych kryteriów, które pozwolą na precyzyjne dostosowanie strategii marketingowej do potrzeb i zachowań poszczególnych użytkowników. Oto propozycje segmentów wraz z ich kryteriami:
+- Osoby Bezrobotne
+    - Kryteria:
+        - Status: Zarejestrowane w urzędzie pracy jako bezrobotne.
+        - Wiek: Wszystkie grupy wiekowe.
+        - Lokalizacja: Różne regiony, z naciskiem na obszary o wyższym wskaźniku bezrobocia.
+        - Potrzeby: Poszukiwanie krótkoterminowych zleceń lub stałej pracy.
+- Studenci i Osoby w Wieku Studenckim
+    - Kryteria:
+        - Status: Pełnoletni studenci uczelni wyższych lub osoby w wieku studenckim.
+        - Wiek: 18-26 lat.
+        - Lokalizacja: Miasta akademickie i ich okolice.
+        - Potrzeby: Prace dorywcze, elastyczne godziny pracy, możliwość zdobycia doświadczenia zawodowego.
+- Emeryci i Renciści
+    - Kryteria:
+        - Status: Osoby na emeryturze lub rencie.
+        - Wiek: 60 lat i więcej.
+        - Lokalizacja: Różne, z możliwością wykonywania zleceń nie wymagających dużej aktywności fizycznej.
+        - Potrzeby: Dodatkowe źródło dochodu, aktywność społeczna, prace lekkie i niewymagające.
+- Osoby Powracające na Rynek Pracy
+    - Kryteria:
+        - Status: Osoby, które miały przerwę w zatrudnieniu (np. po urlopie macierzyńskim).
+        - Wiek: Różne grupy wiekowe.
+        - Lokalizacja: Ogólnokrajowe.
+        - Potrzeby: Elastyczność w wyborze zleceń, możliwość stopniowego powrotu do pracy zawodowej.
+- Freelancerzy i Osoby Samozatrudnione
+    - Kryteria:
+        - Status: Osoby prowadzące własną działalność gospodarczą lub pracujące na zasadzie wolnego zawodu.
+        - Wiek: Różne grupy wiekowe.
+        - Lokalizacja: Ogólnokrajowe, z naciskiem na duże aglomeracje miejskie.
+        - Potrzeby: Poszukiwanie dodatkowych zleceń, rozszerzenie bazy klientów, networking.
+Dla każdego z tych segmentów, strategia marketingowa powinna być dostosowana do ich specyficznych potrzeb i preferencji. Na przykład, komunikacja z osobami bezrobotnymi może koncentrować się na możliwościach znalezienia szybkiej pracy i wsparciu w trudnej sytuacji życiowej, podczas gdy dla studentów ważne będą elastyczne godziny pracy i możliwość zdobycia doświadczenia. Emeryci mogą być zainteresowani lekkimi pracami, które pozwolą im pozostać aktywnymi, a freelancerzy będą szukać zleceń, które mogą uzupełnić ich obecne projekty lub umiejętności. Dostosowanie treści i kanałów komunikacji do każdego segmentu zwiększy skuteczność działań marketingowych.

@@ -35,8 +35,8 @@
 
 ### Jeśli się jest programistą:
 * można użyć magii do automatycznego przenoszenia danych między systemami
-    * API - aktywne
-    * webhooks - pasywne
+    * **API** - aktywne
+    * **webhooks** - pasywne
 * Można pisać mały skrypt który przenosi dane między systemami, uruchamiany za pomocą małego przycisku w przeglądarce
 * Można napisać rozszerzenie do przeglądarki które przenosi dane między systemami
 * Można napisać aplikację internetową, która przenosi dane między systemami

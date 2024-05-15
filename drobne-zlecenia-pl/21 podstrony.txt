@@ -1,0 +1,39 @@
+## Copilot
+Oczywiście, oto propozycja podstron dla serwisu "Drobne Zlecenia PL" wraz z opisem ich zawartości:
+- Strona główna
+    - Opis: Przedstawienie misji serwisu, korzyści dla użytkowników oraz szybki dostęp do najważniejszych funkcji.
+    - Zawartość: Slider z aktualnościami, wyszukiwarka zleceń, wybrane opinie użytkowników, przyciski do rejestracji/logowania.
+- O nas
+    - Opis: Informacje o twórcach serwisu, ich celach i motywacji.
+    - Zawartość: Historia serwisu, misja, wizja, informacje o zespole i partnerach.
+- Jak to działa
+    - Opis: Wyjaśnienie procesu korzystania z serwisu od rejestracji po wykonanie zlecenia.
+    - Zawartość: Krok po kroku instrukcja dla zleceniodawców i wykonawców, FAQ, wideo instruktażowe.
+- Znajdź zlecenie
+    - Opis: Strona umożliwiająca przeglądanie i filtrowanie dostępnych zleceń.
+    - Zawartość: Lista zleceń z opcjami sortowania i filtrowania, szczegóły zleceń, możliwość aplikowania.
+- Dodaj zlecenie
+    - Opis: Formularz dla zleceniodawców do dodawania nowych zleceń.
+    - Zawartość: Prosty formularz z polami na opis, lokalizację, cenę, termin wykonania i inne wymagania.
+- Porady prawne
+    - Opis: Sekcja z informacjami o aspektach prawnych zleceń.
+    - Zawartość: Artykuły, poradniki, informacje o umowach zlecenia, ubezpieczeniach, działalności nierejestrowanej.
+- Bezpieczeństwo
+    - Opis: Informacje o tym, jak serwis dba o bezpieczeństwo transakcji i użytkowników.
+    - Zawartość: Zasady bezpieczeństwa, system ocen, sposób weryfikacji użytkowników, procedury w przypadku sporów.
+- Blog
+    - Opis: Artykuły i aktualności związane z rynkiem pracy, porady dla wykonawców i zleceniodawców.
+    - Zawartość: Posty blogowe, wywiady z użytkownikami, porady ekspertów, historie sukcesu.
+- Kontakt
+    - Opis: Dane kontaktowe serwisu i formularz kontaktowy.
+    - Zawartość: Adres e-mail, numer telefonu, formularz kontaktowy, mapa z lokalizacją biura.
+- Pomoc
+    - Opis: Centrum wsparcia dla użytkowników serwisu.
+    - Zawartość: Baza wiedzy, instrukcje, odpowiedzi na często zadawane pytania, opcja kontaktu z działem wsparcia.
+- Forum
+    - Opis: Platforma do wymiany doświadczeń i dyskusji między użytkownikami.
+    - Zawartość: Kategorie tematyczne, wątki dyskusyjne, możliwość tworzenia nowych tematów, profil użytkownika.
+- Dla firm
+    - Opis: Informacje dla firm zainteresowanych współpracą lub reklamą w serwisie.
+    - Zawartość: Oferta współpracy, statystyki serwisu, formularz kontaktowy dla firm.
+Każda z tych podstron powinna być zaprojektowana z myślą o łatwości użytkowania, intuicyjności oraz dostępności dla osób z różnym poziomem umiejętności korzystania z internetu. Ważne jest również, aby serwis był responsywny i dostosowany do różnych urządzeń.

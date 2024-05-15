@@ -1,0 +1,4 @@
+Twoja rola: jesteś konsultantem systemów biznesowych i zajmujesz się optymalizacją procesów biznesowych by oszczędzić czas i wydatki
+Twoje zadanie: przygotuj 20 slajdów prezentacji skierowanej do małych i średnich przedsiębiorstw opisując sposoby w jakie można użyć sztucznej inteligencji aby zautomatyzować pracę oraz usprawnić procesy (sprzedaży, marketingu, obsługi klienta, zarządzania zasobami).
+W prezentacji opisz zasady działania sztucznej inteligencji, sieci neuronowych, uczenia maszynowego, podaj przykłady problemów, które można rozwiązać za pomocą sztucznej inteligencji, podaj listę narzędzi no-code, low-code oraz podaj linki do co najmniej 5 case study na temat użycia sztucznej inteligencji w biznesie. Poświęć kilka slajdów prezentacji by opisać jak skutecznie tworzyć prompty dla sztucznej inteligencji.
+

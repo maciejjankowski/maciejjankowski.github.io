@@ -1,0 +1,27 @@
+## Copilot
+Oczywiście, oto przykładowe treści dla każdej z podstron serwisu "Drobne Zlecenia PL":
+- Strona główna
+    - Treść: "Witaj w Drobne Zlecenia PL - Twoim miejscu spotkań z możliwościami. Czy szukasz pomocy w domu, ogrodzie, czy przy budowie? A może chcesz zaoferować swoje usługi? Jesteś w dobrym miejscu! Zarejestruj się i dołącz do naszej społeczności już dziś!"
+- O nas
+    - Treść: "Jesteśmy grupą entuzjastów, którzy wierzą, że każdy zasługuje na szansę na godną pracę. Drobne Zlecenia PL to platforma, która łączy potrzebujących z tymi, którzy chcą pomóc. Dowiedz się więcej o naszej misji i wartościach, które nas kierują."
+- Jak to działa
+    - Treść: "Zastanawiasz się, jak skorzystać z naszego serwisu? To proste! Zarejestruj się, stwórz swój profil, a następnie przeglądaj zlecenia lub dodaj własne. Nasz system ocen i recenzji pomoże Ci w wyborze najlepszych wykonawców i zleceniodawców."
+- Znajdź zlecenie
+    - Treść: "Szukasz zlecenia? Użyj naszej wyszukiwarki, aby znaleźć prace pasujące do Twoich umiejętności i harmonogramu. Aplikuj i zacznij zarabiać!"
+- Dodaj zlecenie
+    - Treść: "Potrzebujesz pomocy w domu, ogrodzie lub przy remoncie? Opisz swoje potrzeby w naszym formularzu i pozwól, aby nasi zaufani wykonawcy zgłosili się do Ciebie."
+- Porady prawne
+    - Treść: "Nie jesteś pewny, jakie prawa i obowiązki wynikają z umowy zlecenia? Nasza sekcja porad prawnych dostarczy Ci niezbędnych informacji, abyś mógł świadczyć usługi z pełną świadomością."
+- Bezpieczeństwo
+    - Treść: "Twoje bezpieczeństwo jest dla nas najważniejsze. Przeczytaj, jakie środki bezpieczeństwa wprowadziliśmy, aby chronić Twoje transakcje i dane osobowe."
+- Blog
+    - Treść: "Odkryj porady, historie sukcesu i najnowsze wiadomości ze świata pracy. Nasz blog to źródło wiedzy i inspiracji dla wszystkich użytkowników serwisu."
+- Kontakt
+    - Treść: "Masz pytania lub sugestie? Skontaktuj się z nami przez formularz kontaktowy lub bezpośrednio mailowo. Jesteśmy tutaj, aby Ci pomóc!"
+- Pomoc
+    - Treść: "Potrzebujesz wsparcia w korzystaniu z serwisu? Odwiedź naszą sekcję pomocy, gdzie znajdziesz odpowiedzi na często zadawane pytania i instrukcje obsługi serwisu."
+- Forum
+    - Treść: "Dołącz do naszego forum, gdzie możesz dzielić się doświadczeniami, zadawać pytania i pomagać innym. To miejsce, gdzie wspólnie tworzymy społeczność Drobne Zlecenia PL."
+- Dla firm
+    - Treść: "Jesteś przedsiębiorcą i chcesz dotrzeć do nowych klientów? Dowiedz się, jak możemy współpracować i jakie korzyści przyniesie Ci reklama w naszym serwisie."
+Pamiętaj, że treści te są tylko przykładami i mogą być dostosowane do specyficznych potrzeb i charakteru serwisu. Ważne jest, aby były one jasne, przekonujące i zachęcające użytkowników do interakcji z serwisem.

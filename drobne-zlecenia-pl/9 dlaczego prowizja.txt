@@ -1,0 +1,17 @@
+## Copilot
+Prowizja pobierana przez serwis "Drobne Zlecenia PL" pełni kilka kluczowych funkcji, które są niezbędne dla utrzymania i rozwoju platformy. Oto uzasadnienie istnienia prowizji oraz wyjaśnienie, na co jest ona przeznaczana:
+- Utrzymanie Platformy:
+    - Technologia: Prowizja pomaga pokryć koszty związane z utrzymaniem i aktualizacją technologii serwisu, w tym serwerów, baz danych i oprogramowania.
+    - Bezpieczeństwo: Zapewnia środki na systemy bezpieczeństwa, które chronią dane użytkowników i transakcje finansowe.
+- Wsparcie Klienta:
+    - Obsługa Użytkowników: Finansowanie działu obsługi klienta, który pomaga użytkownikom w rozwiązywaniu problemów i odpowiada na ich pytania.
+    - Rozwój Funkcjonalności: Inwestycje w nowe funkcje i usprawnienia, które poprawiają doświadczenie użytkowników i ułatwiają korzystanie z serwisu.
+- Marketing i Promocja:
+    - Reklama: Prowizja umożliwia prowadzenie kampanii reklamowych, które przyciągają nowych użytkowników i zleceniodawców.
+    - Budowanie Marki: Środki na działania brandingowe, które budują rozpoznawalność serwisu na rynku.
+- Operacje i Administracja:
+    - Zarządzanie: Pokrycie kosztów administracyjnych i operacyjnych, w tym płace pracowników, wynajem biura i inne wydatki bieżące.
+    - Prawne i Regulacyjne: Finansowanie kwestii prawnych, w tym umów z użytkownikami, regulaminu serwisu i zgodności z przepisami.
+- Innowacje i Rozwój:
+    - Badania i Rozwój: Inwestycje w badania rynkowe i rozwój technologiczny, które pozwalają serwisowi na innowacje i dostosowanie się do zmieniających się potrzeb rynku.
+Prowizja jest więc nie tylko źródłem przychodu dla serwisu, ale przede wszystkim środkiem umożliwiającym świadczenie wysokiej jakości usług, rozwój platformy i zapewnienie satysfakcji użytkowników. Dzięki niej serwis może nieustannie się rozwijać, oferując użytkownikom bezpieczne, efektywne i przyjazne środowisko do wymiany usług i zleceń.
