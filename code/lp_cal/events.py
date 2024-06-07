@@ -26,7 +26,7 @@ def get_todays_calendar_events(credentials_file='token.json'):
 
     # Define the start and end times for today
     now = datetime.utcnow()
-    today_start = datetime(now.year, now.month, now.day).isoformat() + 'Z'
+    today_start = datetime(now.year, now.month, now.day, now.hour).isoformat() + 'Z'
     today_end = (datetime(now.year, now.month, now.day) + timedelta(days=1)).isoformat() + 'Z'
 
     # Fetch events for today

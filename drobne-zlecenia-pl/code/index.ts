@@ -1,6 +1,6 @@
 import { createBrowserRouter, RouterProvider } from "next/router";
 import Home from "./pages/Home";
-import About from "./pages/About";
+import About from "./pages/index.ts";
 import HowItWorks from "./pages/HowItWorks";
 import FindAJob from "./pages/FindAJob";
 import AddAJob from "./pages/AddAJob";

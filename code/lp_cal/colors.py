@@ -52,19 +52,20 @@ def get_event_color_rgb(color_id, color_set='dynamic'):
 
     return colors.get(color_id, (0, 0, 0))  # Default to black if color not found
 
-def get_event_color_map(color):
+def get_event_color_map(color:str):
     return {        
-        '1': 44,   # Lavender
+        '1': 79,   # Lavender
         '2': 30,   # Sage
         '3': 49,   # Grape
-        '4': 53,    # Flamingo
+        '4': 107,    # Flamingo
         '5': 13,  # Banana
         '6': 9,   # Tangerine
         '7': 68,  # Peacock
-        '8': 1,  # Graphite
+        '8': 3,  # Graphite
         '9': 45,   # Blueberry
-        '10': 64 # Green
-        }.get(color, 116)  # Default to black if color not found
+        '10': 64, # Green
+        '11' : 7 # red
+        }.get(color, 108)  # Default to black if color not found
 
 
 
@@ -75,8 +76,7 @@ def main():
     color_set = 'classic'
 
     rgb_value = get_event_color_map(color_id)
-    print(f"The RGB value for color ID {color_id} ({color_set}) is: {rgb_value}")
-
+ 
 if __name__ == '__main__':
     main()
 
