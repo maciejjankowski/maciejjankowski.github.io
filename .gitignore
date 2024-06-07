@@ -1,1 +1,6 @@
 .DS_Store
+code/lp_cal/client_secret.json
+code/lp_cal/secrets.py
+code/lp_cal/credentials.json
+token.json
+node_modules
