@@ -1,16 +1,16 @@
 import { createBrowserRouter, RouterProvider } from "next/router";
-import Home from "./pages/Home";
+import Home from "./pages/Home.ts";
 import About from "./pages/index.ts";
-import HowItWorks from "./pages/HowItWorks";
-import FindAJob from "./pages/FindAJob";
-import AddAJob from "./pages/AddAJob";
-import LegalAdvice from "./pages/LegalAdvice";
-import Security from "./pages/Security";
-import Blog from "./pages/Blog";
-import Contact from "./pages/Contact";
-import Help from "./pages/Help";
-import Forum from "./pages/Forum";
-import ForBusinesses from "./pages/ForBusinesses";
+import HowItWorks from "./pages/HowItWorks.ts";
+import FindAJob from "./pages/FindAJob.ts";
+import AddAJob from "./pages/AddAJob.ts";
+import LegalAdvice from "./pages/LegalAdvice.ts";
+import Security from "./pages/Security.ts";
+import Blog from "./pages/Blog.ts";
+import Contact from "./pages/Contact.ts";
+import Help from "./pages/Help.ts";
+import Forum from "./pages/Forum.ts";
+import ForBusinesses from "./pages/ForBusinesses.ts";
 
 const router = createBrowserRouter([
   {

@@ -1,0 +1,23 @@
+# create docker compose file
+
+version: "3.9"
+
+services:
+  redis:
+    image: redis:latest
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+
+  python:
+    build: .
+    command: bash -c "pip install -r requirements.txt && python migrate.py"
+    volumes:
+      - .:/app
+    depends_on:
+      - redis
+
+volumes:
+  redis_data:
+    driver: local

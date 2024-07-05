@@ -4,3 +4,7 @@ code/lp_cal/secrets.py
 code/lp_cal/credentials.json
 token.json
 node_modules
+venv/*
+secrets.py
+projekty/migration/secrets.py
+projekty/migration/data/*
