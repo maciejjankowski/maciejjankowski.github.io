@@ -8,3 +8,4 @@ venv/*
 secrets.py
 projekty/migration/secrets.py
 projekty/migration/data/*
+projekty/code_twogether/venv/*
