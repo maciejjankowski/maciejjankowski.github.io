@@ -1,0 +1,28 @@
+{
+  "id": "1234567890",
+  "title": "Aplikacja do zarządzania zadaniami",
+  "description": "Prosta aplikacja webowa do zarządzania listą zadań do wykonania.",
+  "technologies": ["React", "Node.js", "MongoDB"],
+  "difficulty": "intermediate",
+  "language": "pl",
+  "owner": {
+    "id": "9876543210",
+    "name": "Jan Kowalski"
+  },
+  "members": [
+    {
+      "id": "9876543210",
+      "name": "Jan Kowalski"
+    },
+    {
+      "id": "1112223334",
+      "name": "Anna Nowak"
+    }
+  ],
+  "links": {
+    "visualStudioLiveShare": "https://vsls.example.com/1234567890",
+    "glitch": "https://glitch.com/~project-name",
+    "github": "https://github.com/username/project-name",
+    "discord": "https://discord.gg/invite-code"
+  }
+}

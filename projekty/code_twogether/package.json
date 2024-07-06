@@ -1,0 +1,23 @@
+{
+  "name": "code-twogether",
+  "version": "1.0.0",
+  "description": "Aplikacja do Pair Programming",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "Maciej Jankowski",
+  "license": "MIT",
+  "dependencies": {
+    "react": "*",
+    "react-dom": "*",
+    "react-router-dom": "*",
+    "socket.io-client": "*"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1"
+  }
+}

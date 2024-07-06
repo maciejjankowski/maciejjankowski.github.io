@@ -1,0 +1,43 @@
+// scripts/addproject.js
+
+document.addEventListener("DOMContentLoaded", function () {
+  const addProjectForm = document.getElementById("addProjectForm");
+
+  addProjectForm.addEventListener("submit", function (event) {
+    event.preventDefault(); // Zapobiegaj domyślnej akcji formularza
+
+    const title = document.getElementById("title").value;
+    const description = document.getElementById("description").value;
+    const technology = document.getElementById("technology").value;
+    const difficulty = document.getElementById("difficulty").value;
+    const language = document.getElementById("language").value;
+
+    // Utwórz obiekt projektu
+    const newProject = {
+      title: title,
+      description: description,
+      technology: technology,
+      difficulty: difficulty,
+      language: language,
+    };
+
+    // Wyślij dane projektu do serwera (przykładowe żądanie POST)
+    fetch("/projects", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(newProject),
+    })
+      .then((response) => {
+        if (response.ok) {
+          // Przekieruj użytkownika na stronę z listą projektów
+          window.location.href = "/projects";
+        } else {
+          // Wyświetl komunikat o błędzie
+          console.error("Błąd dodawania projektu:", response.status);
+        }
+      })
+      .catch((error) => console.error("Błąd dodawania projektu:", error));
+  });
+});
