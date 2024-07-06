@@ -3,17 +3,18 @@
 import projekty.migration.modules.sendgrid_email as sendgrid_email
 from sendgrid.helpers.mail import Mail, Email, Content
 
-EMAIL_SUBJECT= "Zmiana hasła platformy ecommerce [XXX]"
+EMAIL_SUBJECT= "[WAŻNE] Zmiana hasła platformy ecommerce [XXX]"
 EMAIL_MESSAGE = "Dzień dobry\
 Przenieśliśmy Państwa konto na naszą nową platformę sklepu internetowego.\
 Ze wzgledów bezpieczeństwa prosimy o zmianę hasła pod następującym linkiem:\
 https://example.com/change_password\
 a następnie prosimy zalogować się i upewnić się, że wszystko działa jak należy.\
 \
+Sugerujemy używanie menedżera haseł, np. 1Password lub \
+\
 W razie wątpliwości co do wiarygodności niniejszej wiadomości prosimy o zapoznanie się z artykułem:\
 https://example.com/migracja_platformy_ecommerce/\
 "
-
 
 def send_email(email_address, client_id, subject=EMAIL_SUBJECT, message=EMAIL_MESSAGE):
     """Sends an email using the SendGrid API.
@@ -49,3 +50,9 @@ def send_email(email_address, client_id, subject=EMAIL_SUBJECT, message=EMAIL_ME
         log_error(f"Error sending email to #{client_id}: {email_address}: {response.body}")
         return False
 
+def main():
+    
+    pass
+
+if __name__ == "__main__":
+    main()

@@ -2,6 +2,8 @@
 import csv
 from mappers import map_client_record
 
+
+
 def read_idosell_csv(csv_file_path):
     """Reads a CSV file with idosell customer records and maps them to PrestaShop format.
 
@@ -37,6 +39,14 @@ def main():
         writer.writeheader()
         for client in presta_clients:
             writer.writerow(client)
+    
+    with open("./data/presta_passwords.csv", "w", newline="", encoding="utf-8") as csvfile:
+        fieldnames = ['email', 'password']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=";")
+        writer.writeheader()
+        for client in presta_clients:
+            writer.writerow(client)
+        
                 
 
 if __name__ == "__main__":

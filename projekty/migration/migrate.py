@@ -5,6 +5,16 @@ from projekty.migration.modules.mappers import map_client_record
 import projekty.migration.modules.presta as presta
 import projekty.migration.modules.idosell as idosell
 
+states = {
+    1 : "idosell_client_get_all",
+    2 : "idosell_client_get",
+    3 : "presta_client_create",
+    4 : "presta_client_create_failed",
+    5 : "presta_client_password_changed",
+    6 : "presta_client_password_change_failed",
+}
+
+
 
 redis_conn = redis.Redis()
 p = redis_conn.pubsub()
