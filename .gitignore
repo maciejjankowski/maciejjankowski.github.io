@@ -4,8 +4,10 @@ code/lp_cal/secrets.py
 code/lp_cal/credentials.json
 token.json
 node_modules
-venv/*
+venv
 secrets.py
 projekty/migration/secrets.py
 projekty/migration/data/*
 projekty/code_twogether/venv/*
+vendor
+__pycache__
