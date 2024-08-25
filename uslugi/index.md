@@ -4,6 +4,7 @@
     * Mentoring IT - Javascript, Python, SQL
 * Konsulting biznesowy
     * Automatyzacja procesów
+      * [Platforma rezerwacyjna](medyczna-platforma-rezerwacyjna.md) dla przychodni specjalistycznych i praktyk dentystycznych
     * Innowacje w organizacji
         * Onboarding, czyli szybkie wdrażanie nowego pracownika
         * Discovery Days

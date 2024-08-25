@@ -1,10 +1,10 @@
 # Szkolenia
 
 
-- [[automatyzacja]](./automatyzacja)
-- [[podstawy]](./podstawy)
-- [[programowanie.md]](./programowanie.md)
-
+- [automatyzacja](./automatyzacja)
+- [podstawy](./podstawy)
+- [programowanie](./programowanie.md)
+- [Geek Club Ełk](../geekclub)
 
 
 Generated using bash:

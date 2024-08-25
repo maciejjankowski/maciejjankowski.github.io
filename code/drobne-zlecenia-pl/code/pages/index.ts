@@ -1,2 +1,0 @@
-
-Witaj w Drobne Zlecenia PL - Twoim miejscu spotkań z możliwościami. Czy szukasz pomocy w domu, ogrodzie, czy przy budowie? A może chcesz zaoferować swoje usługi? Jesteś w dobrym miejscu! Zarejestruj się i dołącz do naszej społeczności już dziś!"
