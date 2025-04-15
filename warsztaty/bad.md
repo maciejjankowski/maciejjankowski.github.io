@@ -20,4 +20,4 @@ Podczas tych intensywnych 4-godzinnych warsztatów nauczysz się, jak wykorzysta
 * Opanujesz metody świadomej komunikacji z zespołem i interesariuszami
 * Otrzymasz gotowe szablony do natychmiastowego zastosowania w swoim biznesie
 
-### [Zapisz się](https://tidycal.com/maciejjankowski/bad-25-minutes)
+### [Obejrzyj krótką prezentację](https://slides.com/mjankowski/bad-canvas) -> [Zapisz się](https://tidycal.com/maciejjankowski/bad-25-minutes) -> Zróbmy to!
