@@ -5,3 +5,6 @@
 * https://app.onlyprompts.net/user/select-workspace?url=/user/dashboard
 * https://app.socleads.com
 * https://www.bhuman.ai/persona
+* https://beta.pickaxeproject.com/user/dashboard
+* https://databar.ai/
+* 
