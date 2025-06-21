@@ -3,5 +3,7 @@
   "obsidian-day-planner",
   "mermaid-tools",
   "obsidian-excalidraw-plugin",
-  "dataview"
+  "dataview",
+  "obsidian-tasks-plugin",
+  "obsidian-kanban"
 ]
