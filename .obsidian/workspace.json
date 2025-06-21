@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uslugi/konsulting/Early stage startup.md",
+                "file": "projekty/Narzędzia/Narzędzia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Early stage startup"
+              "title": "Narzędzia"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uslugi/konsulting/Early stage startup.md",
+                "file": "projekty/Narzędzia/Narzędzia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Early stage startup"
+              "title": "Backlinks for Narzędzia"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uslugi/konsulting/Early stage startup.md",
+                "file": "projekty/Narzędzia/Narzędzia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Early stage startup"
+              "title": "Outgoing links from Narzędzia"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uslugi/konsulting/Early stage startup.md",
+                "file": "projekty/Narzędzia/Narzędzia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Early stage startup"
+              "title": "Outline of Narzędzia"
             }
           },
           {
@@ -186,19 +186,20 @@
   },
   "active": "96c9d270af7ca6d2",
   "lastOpenFiles": [
+    "projekty/Edukacja/Edukacja.md",
+    "projekty/Narzędzia/Narzędzia.md",
+    "projekty/Narzędzia",
+    "uslugi/konsulting/Early stage startup.md",
     "uslugi/coaching/index.md",
     "uslugi/szkolenia/Business Aware Design.md",
     "qr.md",
     "uslugi/szkolenia/index.md",
     "uslugi/szkolenia/programowanie.md",
-    "uslugi/konsulting/Early stage startup.md",
     "uslugi/warsztaty/bad.md",
     "peers.md",
     "projekty/artefakty-i-rytualy/index.md",
-    "projekty/Edukacja/Edukacja.md",
     "projekty/AudioWizki.md",
     "projekty/Edukacja",
-    "projekty/Untitled",
     "uslugi/warsztaty/_meta/post_signup.md",
     "uslugi/uslugi.md",
     "duchowosc/bhp.md"
