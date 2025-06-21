@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uslugi/warsztaty/bad.md",
+                "file": "uslugi/konsulting/Early stage startup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bad"
+              "title": "Early stage startup"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uslugi/warsztaty/bad.md",
+                "file": "uslugi/konsulting/Early stage startup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bad"
+              "title": "Backlinks for Early stage startup"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uslugi/warsztaty/bad.md",
+                "file": "uslugi/konsulting/Early stage startup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from bad"
+              "title": "Outgoing links from Early stage startup"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uslugi/warsztaty/bad.md",
+                "file": "uslugi/konsulting/Early stage startup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bad"
+              "title": "Outline of Early stage startup"
             }
           },
           {
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,19 +182,21 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9e667a999eef1792",
+  "active": "96c9d270af7ca6d2",
   "lastOpenFiles": [
     "uslugi/coaching/index.md",
+    "uslugi/konsulting/Early stage startup.md",
+    "uslugi/warsztaty/bad.md",
     "peers.md",
     "projekty/artefakty-i-rytualy/index.md",
     "projekty/Edukacja/Edukacja.md",
     "projekty/AudioWizki.md",
     "projekty/Edukacja",
     "projekty/Untitled",
-    "uslugi/warsztaty/bad.md",
     "uslugi/warsztaty/_meta/post_signup.md",
     "uslugi/uslugi.md",
     "uslugi/szkolenia/Business Aware Design.md",
