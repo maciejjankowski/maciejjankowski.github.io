@@ -1,0 +1,2 @@
+* Akredytowany Coach
+* Hipnoterapia
