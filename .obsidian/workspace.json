@@ -101,7 +101,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Backlinks for Early stage startup"
@@ -161,13 +161,11 @@
               "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,6 +187,10 @@
   "active": "96c9d270af7ca6d2",
   "lastOpenFiles": [
     "uslugi/coaching/index.md",
+    "uslugi/szkolenia/Business Aware Design.md",
+    "qr.md",
+    "uslugi/szkolenia/index.md",
+    "uslugi/szkolenia/programowanie.md",
     "uslugi/konsulting/Early stage startup.md",
     "uslugi/warsztaty/bad.md",
     "peers.md",
@@ -199,7 +201,6 @@
     "projekty/Untitled",
     "uslugi/warsztaty/_meta/post_signup.md",
     "uslugi/uslugi.md",
-    "uslugi/szkolenia/Business Aware Design.md",
     "duchowosc/bhp.md"
   ]
 }

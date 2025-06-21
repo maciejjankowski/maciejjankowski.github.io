@@ -2,7 +2,6 @@
 
 - [automatyzacja](./automatyzacja)
 - [podstawy](./podstawy)
-- [programowanie](programowanie.md)
 - [Geek Club Ełk](../geekclub)
 
 
