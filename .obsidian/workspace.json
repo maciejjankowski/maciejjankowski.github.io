@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projekty/artefakty-i-rytualy/index.md",
+                "file": "uslugi/warsztaty/bad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "bad"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projekty/artefakty-i-rytualy/index.md",
+                "file": "uslugi/warsztaty/bad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for bad"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projekty/artefakty-i-rytualy/index.md",
+                "file": "uslugi/warsztaty/bad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from bad"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projekty/artefakty-i-rytualy/index.md",
+                "file": "uslugi/warsztaty/bad.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of bad"
             }
           },
           {
@@ -161,12 +161,12 @@
               "title": "Timeline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +184,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "96c9d270af7ca6d2",
+  "active": "9e667a999eef1792",
   "lastOpenFiles": [
+    "uslugi/coaching/index.md",
+    "peers.md",
+    "projekty/artefakty-i-rytualy/index.md",
     "projekty/Edukacja/Edukacja.md",
     "projekty/AudioWizki.md",
     "projekty/Edukacja",
@@ -193,8 +196,6 @@
     "uslugi/warsztaty/bad.md",
     "uslugi/warsztaty/_meta/post_signup.md",
     "uslugi/uslugi.md",
-    "coaching/index.md",
-    "peers.md",
     "uslugi/szkolenia/Business Aware Design.md",
     "duchowosc/bhp.md"
   ]
