@@ -7,4 +7,8 @@
 * https://www.bhuman.ai/persona
 * https://beta.pickaxeproject.com/user/dashboard
 * https://databar.ai/
-* 
+* https://sendfox.com/
+* https://kingsumo.com/
+* https://app.unifire.ai/dashboard
+* https://afforai.com/app
+* https://app.zerowork.io
