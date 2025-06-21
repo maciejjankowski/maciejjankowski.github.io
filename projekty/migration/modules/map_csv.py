@@ -1,7 +1,7 @@
 # map_csv.py
 import csv
 from mappers import map_client_record
-
+import time
 
 
 def read_idosell_csv(csv_file_path):
@@ -27,25 +27,27 @@ def read_idosell_csv(csv_file_path):
     return presta_clients
 
 def main():
-    csv_file_path = './data/idosell_clients.csv'  # Replace with your CSV file path
+    csv_file_path = 'data/idosell_clients.csv'  # Replace with your CSV file path
     presta_clients = read_idosell_csv(csv_file_path)
 
     # Now you have a list of PrestaShop client records in `presta_clients`
     # You can use this list to create clients in PrestaShop or perform other operations.
-
-    with open('./data/presta_clients.csv', 'w', newline='', encoding='utf-8') as csvfile:
+    last_5_digits = str(int(time.time()))[-5:]
+    with open(f'data/{last_5_digits}_presta_clients.csv', 'w', newline='', encoding='utf-8') as csvfile:
         fieldnames = presta_clients[0].keys()  # Get fieldnames from the first record
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=';')
         writer.writeheader()
         for client in presta_clients:
-            writer.writerow(client)
+            if len(client['Email *']) > 0:
+                writer.writerow(client)
     
-    with open("./data/presta_passwords.csv", "w", newline="", encoding="utf-8") as csvfile:
-        fieldnames = ['email', 'password']
+    with open(f"data/{last_5_digits}_presta_passwords.csv", "w", newline="", encoding="utf-8") as csvfile:
+        fieldnames = ['Email *', 'Password *']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=";")
         writer.writeheader()
         for client in presta_clients:
-            writer.writerow(client)
+            client_record = {"Email *": client["Email *"], "Password *": client["Password *"]}
+            writer.writerow(client_record)
         
                 
 

@@ -1,4 +1,5 @@
 from generate_password import generate_password
+import re
 
 def map_client_record(idosell_client_record):
     """Maps columns from idosell schema (SCHEMA_A) to PrestaShop schema (SCHEMA_B).
@@ -11,7 +12,7 @@ def map_client_record(idosell_client_record):
     """
 
     fields_map = {
-        # presta_key : idosell_key
+        # pole poniżej to: presta_key : idosell_key
         "Customer ID": "id",
         "Active (0/1)": "block_account",  # Assuming 0 is blocked, 1 is active
         "Email *": "email",
@@ -20,14 +21,35 @@ def map_client_record(idosell_client_record):
         "Last Name *": "lastname",
         "First Name *": "firstname",
         # "Newsletter (0/1)": "newsletter_sms",  # Assuming newsletter is SMS based
-        "Registration date (yyyy-mm-dd)": "date_of_registration",
+        # "Registration date (yyyy-mm-dd)": "date_of_registration",
         # "Default group ID": "client_type",  # Assuming default group ID maps to client type
     }
 
+    
     presta_client_record = {}
     for presta_key, idosell_key in fields_map.items():
         if idosell_key in idosell_client_record:
             presta_client_record[presta_key] = idosell_client_record[idosell_key]
+
+    presta_client_record["Last Name *"]= \
+        re.sub(r'[0-9!<>,;?=+()@#"°{}_$%:¤|./]', '', presta_client_record["Last Name *"])
+        
+    presta_client_record["First Name *"]= \
+        re.sub(r'[0-9!<>,;?=+()@#"°{}_$%:¤|./]', '', presta_client_record["First Name *"])
+
+
+    if len(presta_client_record["Last Name *"]) == 0:
+        presta_client_record["Last Name *"] = \
+            re.sub(r'[^a-zA-Z]', '', presta_client_record["Email *"].split('@')[0])[-10:]
+    
+    if len(presta_client_record["First Name *"]) == 0:
+        presta_client_record["First Name *"] = \
+            re.sub(r'[^a-zA-Z]', '', presta_client_record["Email *"].split('@')[0])[:10]
+        
+    
+    
+    
+    # print(presta_client_record)
 
     # Handle special cases:
     if "block_account" in idosell_client_record:
@@ -40,7 +62,7 @@ def map_client_record(idosell_client_record):
             
     # - "Titles ID (Mr = 1, Ms = 2, else 0)": Map to "companyname" if available, otherwise leave empty
     if "Titles ID (Mr = 1, Ms = 2, else 0)" in idosell_client_record:
-        raise "Not implemented yet"
+        raise Exception("Not implemented yet")
         title_id = idosell_client_record["Titles ID (Mr = 1, Ms = 2, else 0)"]
         if title_id == 1:
             presta_client_record["companyname"] = "Mr."
@@ -49,11 +71,13 @@ def map_client_record(idosell_client_record):
 
     # - "Groups (x,y,z...)": Map to "labels" if available, otherwise leave empty
     if "Groups (x,y,z...)" in idosell_client_record:
-        raise "Not implemented yet"
+        raise Exception("Not implemented yet")
         presta_client_record["labels"] = idosell_client_record["Groups (x,y,z...)"]
-
-    presta_client_record["password"] = generate_password(include_symbols=False)
     
+
+    presta_client_record["Password *"] = generate_password(include_symbols=False)
+    # print(presta_client_record["Email *"],presta_client_record["Password *"])
+    # raise Exception("setting password")
     return presta_client_record
 
 # "Customer ID;Active (0/1);Titles ID (Mr = 1, Ms = 2, else 0);Email *;Password *;Birthday (yyyy-mm-dd);Last Name *;First Name *;Newsletter (0/1);Opt-in (0/1);Registration date (yyyy-mm-dd);Groups (x,y,z...);Default group ID"

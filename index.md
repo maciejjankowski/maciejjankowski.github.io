@@ -2,5 +2,5 @@
 
 Gram, programuję, kołczuję, mentoruję
 
-- [Warsztaty z modelowania biznesowego Business Aware Design](warsztaty/bad)
+- [Warsztaty z modelowania biznesowego Business Aware Design](bad.md)
 

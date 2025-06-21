@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "7a8ce32a4f7cc8db",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d3c48f23d4c98ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96c9d270af7ca6d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uslugi/warsztaty/bad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bad"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3de8d4f4389bba3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb4a082839c69780",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e667a999eef1792",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ba4d171f0d1f25ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a86b310b86da9a92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c70220b7beba3bc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a8784fdb3171c65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9197dc095b88cf3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "uslugi/warsztaty/bad.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for bad"
+            }
+          },
+          {
+            "id": "c3b2880136c4e136",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "uslugi/warsztaty/bad.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from bad"
+            }
+          },
+          {
+            "id": "47be397a526a3d73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "386b047dac17b160",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "uslugi/warsztaty/bad.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of bad"
+            }
+          },
+          {
+            "id": "948596ae3588b4dc",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "96c9d270af7ca6d2",
+  "lastOpenFiles": [
+    "uslugi/warsztaty/_meta/post_signup.md",
+    "uslugi/warsztaty/bad.md",
+    "uslugi/uslugi.md",
+    "coaching/index.md",
+    "peers.md",
+    "uslugi/szkolenia/Business Aware Design.md",
+    "duchowosc/bhp.md"
+  ]
+}
