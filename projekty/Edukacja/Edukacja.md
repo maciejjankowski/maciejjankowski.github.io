@@ -8,6 +8,8 @@ Do zrobienia:
 * [BAD Canvas Course](#)
 * [Brando](#)
 * [Creative ambush](#)
+* BAD Digital >> https://sefirot.it/downloads/DIY_BAD.zip
+* BADPRO >> https://sefirot.it/downloads/BADPRO-onboarding.pdf
 
 
 Planowane
