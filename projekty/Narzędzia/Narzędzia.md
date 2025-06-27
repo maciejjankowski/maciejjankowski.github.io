@@ -24,6 +24,7 @@
 * [ADHD accomodation guide](https://adhdatwork.add.org/adhd-accommodation-guide/)
 * [#5: Review: Understanding and Supporting ADHD Colleagues in the Workplace](https://www.linkedin.com/pulse/5-review-understanding-supporting-adhd-colleagues-workplace-chung/)
 * [thinking shortcuts](https://en.shortcogs.com/)
+* [business models](https://businessmodelnavigator.com/ideation/)
 
 * [Z Type typing game](https://zty.pe/)
 * [Irish coast sounds](https://mynoise.net/NoiseMachines/windSeaRainNoiseGenerator.php)
