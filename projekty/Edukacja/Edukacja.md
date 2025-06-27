@@ -6,6 +6,7 @@ W trakcie
 Do zrobienia:
 * [Intuiti](https://docs.google.com/document/d/1twsSFT1GmPmpbqf0wb3PZjVCfn3FJUJAKCBSDCvRZYs/edit?usp=sharing)
 * [BAD Canvas Course](https://myspace.learningexperience.space/#!/courses/bad-canvas-certification/lessons)
+  * [BAD Canvas Course extra](https://miro.com/app/board/uXjVOzcFxdI=/)
 * [Brando](#)
 * [Creative ambush](#)
 * BAD Digital >> https://sefirot.it/downloads/DIY_BAD.zip
