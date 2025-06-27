@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projekty/Narzędzia/Narzędzia.md",
+                "file": "projekty/zajawki/artefakty/artefakty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Narzędzia"
+              "title": "artefakty"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projekty/Narzędzia/Narzędzia.md",
+                "file": "projekty/zajawki/artefakty/artefakty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Narzędzia"
+              "title": "Backlinks for artefakty"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projekty/Narzędzia/Narzędzia.md",
+                "file": "projekty/zajawki/artefakty/artefakty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Narzędzia"
+              "title": "Outgoing links from artefakty"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projekty/Narzędzia/Narzędzia.md",
+                "file": "projekty/zajawki/artefakty/artefakty.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Narzędzia"
+              "title": "Outline of artefakty"
             }
           },
           {
@@ -186,8 +186,8 @@
   },
   "active": "96c9d270af7ca6d2",
   "lastOpenFiles": [
-    "projekty/Edukacja/Edukacja.md",
     "projekty/Narzędzia/Narzędzia.md",
+    "projekty/Edukacja/Edukacja.md",
     "projekty/Narzędzia",
     "uslugi/konsulting/Early stage startup.md",
     "uslugi/coaching/index.md",
