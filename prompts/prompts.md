@@ -15,3 +15,6 @@ ogranicz odpowiedź do 1500 znaków, tylko konkrety
 
 Action items:
 
+
+----
+1. Prompt - na podstawie drzewa plików w tym folderze, utwórz mapę myśli w mermaid

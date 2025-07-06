@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projekty/Edukacja/Edukacja.md",
+                "file": "prompts/prompts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Edukacja"
+              "title": "prompts"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projekty/Edukacja/Edukacja.md",
+                "file": "prompts/prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Edukacja"
+              "title": "Backlinks for prompts"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projekty/zajawki/artefakty/artefakty.md",
+                "file": "prompts/prompts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of artefakty"
+              "title": "Outline of prompts"
             }
           },
           {
@@ -161,12 +161,12 @@
               "title": "Timeline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +185,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "96c9d270af7ca6d2",
+  "active": "948596ae3588b4dc",
   "lastOpenFiles": [
+    "uslugi/uslugi.md",
+    "projekty/Edukacja/Edukacja.md",
     "index.md",
     "cal.md",
     "art.md",
@@ -197,7 +199,6 @@
     "projekty/Narzędzia/Narzędzia.md",
     "projekty/kariera.md",
     "projekty/zajawki/artefakty/artefakty.md",
-    "projekty/Edukacja/Edukacja.md",
     "projekty/Narzędzia",
     "uslugi/konsulting/Early stage startup.md",
     "uslugi/coaching/index.md",
@@ -211,7 +212,6 @@
     "projekty/AudioWizki.md",
     "projekty/Edukacja",
     "uslugi/warsztaty/_meta/post_signup.md",
-    "uslugi/uslugi.md",
     "duchowosc/bhp.md"
   ]
 }
