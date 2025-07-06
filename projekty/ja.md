@@ -1,5 +1,5 @@
 * Rozwój
-	* [Cele Finansowe](./cele_finansowe.md)
+	* [Cele Finansowe](cele_finansowe.md)
 	* Cele Rozwojowe
 	* [[Edukacja]]
 		* Coaching
