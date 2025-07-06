@@ -15,16 +15,19 @@ Cele:
 * Usługi (2000 / mc)
 	* Coaching 
 		* A Super 
+			* 5 klientów / 10 spotkań  / mc @ 150/h= 1000 PLN
 		* B Baza
-			* 2 klientów
+			* 2 klientów / 4 spotkania / mc = 400 PLN
 		* C Minimum
-			* 1 klient / 2 spotkania / miesiąc = 200 PLN
+			* 1 klient / 2 spotkania / mc = 200 PLN
 	* Consulting
 	* Warsztaty
 		* A
-		* B
+			* 4 warsztaty / mc = 
+		* B Baza
+			* 2 warsztaty / mc = 4000 PLN
 		* C Minimum
-			* 1 warsztat / mc
+			* 1 warsztat / mc = 2000 PLN
 			* 
 * Publikacje
 	* Dwa Światy
