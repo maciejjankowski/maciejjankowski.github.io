@@ -17,4 +17,4 @@ Action items:
 
 
 ----
-1. Prompt - na podstawie drzewa plików w tym folderze, utwórz mapę myśli w mermaid z 
+1. Utwórz index.md na podstawie folderów i plików w tym katalogu - na podstawie drzewa plików w tym folderze, utwórz mapę myśli w mermaid z 

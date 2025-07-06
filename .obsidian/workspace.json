@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompts/prompts.md",
+                "file": "projekty/Dwa Światy/demony.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prompts"
+              "title": "demony"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prompts/prompts.md",
+                "file": "projekty/Dwa Światy/demony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for prompts"
+              "title": "Backlinks for demony"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompts/prompts.md",
+                "file": "projekty/Dwa Światy/demony.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of prompts"
+              "title": "Outline of demony"
             }
           },
           {
@@ -200,10 +200,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "baa344d902852359",
+  "active": "9e667a999eef1792",
   "lastOpenFiles": [
-    "projekty/index.md",
+    "projekty/Dwa Światy/dwa-swiaty-rpg.md",
+    "projekty/Dwa Światy/demony.md",
     "prompts/prompts.md",
+    "projekty/index.md",
     "projekty/Untitled",
     "projekty/zajawki/todo.md",
     "projekty/zajawki/podstawy hiphopu.md",
@@ -221,8 +223,6 @@
     "index.md",
     "cal.md",
     "art.md",
-    "projekty/Dwa Światy/demony.md",
-    "projekty/Dwa Światy/dwa-swiaty-rpg.md",
     "projekty/Narzędzia/other tools.md",
     "projekty/Narzędzia/Narzędzia.md",
     "projekty/zajawki/artefakty/artefakty.md",
