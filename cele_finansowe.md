@@ -9,15 +9,23 @@
 
 * Sierpień
 
-Docelowo:
+Cele:
 * Dochód pasywny (2000 / mc)
 	* Remont mieszkania
 * Usługi (2000 / mc)
-	* Coaching
-		* A 
-		* B
-		* C Minimum: 
+	* Coaching 
+		* A Super 
+		* B Baza
+			* 2 klientów
+		* C Minimum
+			* 1 klient / 2 spotkania / miesiąc = 200 PLN
 	* Consulting
+	* Warsztaty
+		* A
+		* B
+		* C Minimum
+			* 1 warsztat / mc
+			* 
 * Publikacje
 	* Dwa Światy
 	* Wiedza
