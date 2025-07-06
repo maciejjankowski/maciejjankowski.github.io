@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompts/prompts.md",
+                "file": "_meta/prompts.md",
                 "mode": "source",
                 "source": false
               },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prompts/prompts.md",
+                "file": "_meta/prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompts/prompts.md",
+                "file": "_meta/prompts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,10 +214,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c8e77a473a1ee483",
+  "active": "9e667a999eef1792",
   "lastOpenFiles": [
+    "_meta",
     "cele_finansowe.md",
-    "prompts/prompts.md",
+    "_meta/prompts.md",
     "index.md",
     "Excalidraw/Drawing 2025-07-06 17.43.48.excalidraw.md",
     "Excalidraw",
@@ -250,7 +251,6 @@
     "projekty/zajawki/Giancarlo e Bella Kita/bajki/3.md",
     "cal.md",
     "art.md",
-    "projekty/Narzędzia/other tools.md",
     "projekty/Narzędzia"
   ]
 }
