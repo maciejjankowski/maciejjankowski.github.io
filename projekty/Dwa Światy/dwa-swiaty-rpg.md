@@ -1,0 +1,1 @@
+Karcianka o podłożu psychologicznym i samorozwojowym

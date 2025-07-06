@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projekty/zajawki/Untitled.md",
+                "file": "cal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "cal"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projekty/zajawki/Untitled.md",
+                "file": "cal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for cal"
             }
           },
           {
@@ -186,8 +186,11 @@
   },
   "active": "96c9d270af7ca6d2",
   "lastOpenFiles": [
+    "art.md",
+    "projekty/index.md",
+    "projekty/Dwa Światy/demony.md",
+    "projekty/Dwa Światy/dwa-swiaty-rpg.md",
     "projekty/Narzędzia/other tools.md",
-    "projekty/zajawki/Untitled.md",
     "projekty/Narzędzia/Narzędzia.md",
     "projekty/kariera.md",
     "projekty/zajawki/artefakty/artefakty.md",
