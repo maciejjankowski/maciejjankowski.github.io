@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uslugi/konsulting/Early stage startup.md",
+                "file": "projekty/kariera.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Early stage startup"
+              "title": "kariera"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uslugi/konsulting/Early stage startup.md",
+                "file": "projekty/kariera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Early stage startup"
+              "title": "Backlinks for kariera"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uslugi/konsulting/Early stage startup.md",
+                "file": "projekty/kariera.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Early stage startup"
+              "title": "Outline of kariera"
             }
           },
           {
@@ -187,10 +187,13 @@
   },
   "active": "654deb7cad36da8c",
   "lastOpenFiles": [
+    "prompts/prompts.md",
+    "uslugi/warsztaty/bad.md",
+    "uslugi/uslugi.md",
+    "uslugi/coaching/index.md",
+    "uslugi/konsulting/Early stage startup.md",
     "HOWTO github pages.md",
     "projekty/zajawki/Giancarlo e Bella Kita/bajki/3.md",
-    "prompts/prompts.md",
-    "uslugi/uslugi.md",
     "projekty/Edukacja/Edukacja.md",
     "index.md",
     "cal.md",
@@ -203,13 +206,10 @@
     "projekty/kariera.md",
     "projekty/zajawki/artefakty/artefakty.md",
     "projekty/Narzędzia",
-    "uslugi/konsulting/Early stage startup.md",
-    "uslugi/coaching/index.md",
     "uslugi/szkolenia/Business Aware Design.md",
     "qr.md",
     "uslugi/szkolenia/index.md",
     "uslugi/szkolenia/programowanie.md",
-    "uslugi/warsztaty/bad.md",
     "peers.md",
     "projekty/artefakty-i-rytualy/index.md",
     "projekty/AudioWizki.md",

@@ -12,4 +12,10 @@
         * Discovery Days
         * Wprowadzenie do TRIZ
         * Warsztaty z Management 3.0
-        * 
+
+* doświadczenie z hackathonów
+* ocena produktu / projektu
+* Branding
+	* 3hr brand sptrint
+	* Brando
+	* 
