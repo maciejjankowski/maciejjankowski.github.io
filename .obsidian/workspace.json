@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projekty/Dwa Światy/dwa-swiaty-rpg.md",
+                "file": "Users/mj/Library/Mobile Documents/iCloud~md~obsidian/Documents/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dwa-swiaty-rpg"
+              "title": "README"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projekty/Dwa Światy/dwa-swiaty-rpg.md",
+                "file": "Users/mj/Library/Mobile Documents/iCloud~md~obsidian/Documents/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dwa-swiaty-rpg"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projekty/Dwa Światy/dwa-swiaty-rpg.md",
+                "file": "Users/mj/Library/Mobile Documents/iCloud~md~obsidian/Documents/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dwa-swiaty-rpg"
+              "title": "Outline of README"
             }
           },
           {
@@ -202,8 +202,10 @@
   },
   "active": "baa344d902852359",
   "lastOpenFiles": [
-    "Users/mj/Library/Mobile Documents/iCloud~md~obsidian/Documents/README.md",
     "projekty/Dwa Światy/dwa-swiaty-rpg.md",
+    "projekty/zajawki/todo.md",
+    "README.md",
+    "Users/mj/Library/Mobile Documents/iCloud~md~obsidian/Documents/README.md",
     "Users/mj/Library/Mobile Documents/iCloud~md~obsidian/Documents",
     "Users/mj/Library/Mobile Documents/iCloud~md~obsidian",
     "Users/mj/Library/Mobile Documents",
@@ -215,7 +217,6 @@
     "prompts/prompts.md",
     "projekty/index.md",
     "projekty/Untitled",
-    "projekty/zajawki/todo.md",
     "projekty/zajawki/podstawy hiphopu.md",
     "projekty/zajawki/medyczna-platforma-rezerwacyjna.md",
     "projekty/zajawki/chatboty.md",
@@ -236,7 +237,6 @@
     "projekty/zajawki/artefakty/artefakty.md",
     "projekty/Narzędzia",
     "uslugi/szkolenia/Business Aware Design.md",
-    "qr.md",
     "projekty/Edukacja"
   ]
 }
