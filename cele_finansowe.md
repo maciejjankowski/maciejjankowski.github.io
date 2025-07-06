@@ -1,3 +1,13 @@
+* Bilans miesięczny
+	* Lipiec
+
+| Rozchody     | Wartość | Data |
+| ------------ | ------- | ---- |
+| Wynagrodznie |         |      |
+|              |         |      |
+
+	
+	* Sierpień
 * Dochód pasywny (2000 / mc)
 	* Remont mieszkania
 * Usługi (2000 / mc)
