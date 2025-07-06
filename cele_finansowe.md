@@ -38,9 +38,15 @@ Cele:
 * Publikacje
 	* Dwa Światy
 		* A Super
-			* 1000 szt / rok @ 250 = 250 000 PLN (to tylko 3 sztuki / dzień!)
+			* 1040 szt / rok @ 250
+			  250 000 PLN 
+				  (to tylko 3 sztuki / dzień! 20 szt / tydzień)
 		* B Baza
-			* 208 szt / rok @ 200 = 40 000 PLN (1 sztuka / tydzień)
+			* 208 szt / rok @ 200
+			  40 000 PLN 
+				  (1 sztuka / tydzień)
+		  * C Minimum
+			  * 52 szt / rok @ 160
 	* Wiedza
 ```mermaid
 timeline
