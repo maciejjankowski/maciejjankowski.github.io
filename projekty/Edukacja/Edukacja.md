@@ -3,6 +3,7 @@ Zrealizowane
 W trakcie
 * Akredytowany Coach
 * [monthly 1K](https://appsumo.teachable.com/courses/enrolled/333457)
+* 
 Do zrobienia:
 * [Intuiti](https://docs.google.com/document/d/1twsSFT1GmPmpbqf0wb3PZjVCfn3FJUJAKCBSDCvRZYs/edit?usp=sharing)
 * [BAD Canvas Course](https://myspace.learningexperience.space/#!/courses/bad-canvas-certification/lessons)
@@ -17,11 +18,11 @@ Planowane
 * [Hipnoterapia](https://barwyumyslu.pl/szkolenia/omni-hypnosis-training-center/) - 12k
 * Behawiorystyka - 12k
 
-
-
 * [notion templates](#)
 
 ```mermaid
-graph TD;
-one --> two
+mindmap
+root((mindmap)) 
+	Origins 
+		Long history
 ```
