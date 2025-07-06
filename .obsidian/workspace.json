@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cal.md",
+                "file": "projekty/Edukacja/Edukacja.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cal"
+              "title": "Edukacja"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cal.md",
+                "file": "projekty/Edukacja/Edukacja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cal"
+              "title": "Backlinks for Edukacja"
             }
           },
           {
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,6 +187,8 @@
   },
   "active": "96c9d270af7ca6d2",
   "lastOpenFiles": [
+    "index.md",
+    "cal.md",
     "art.md",
     "projekty/index.md",
     "projekty/Dwa Światy/demony.md",
