@@ -38,7 +38,7 @@ Cele:
 * Publikacje
 	* Dwa Światy
 		* AA Dziki sukces
-			* 1 050 000
+			* 3033 sz / 1 107 045
 				* 
 		* A Super
 			* 1040 szt / rok @ 250
