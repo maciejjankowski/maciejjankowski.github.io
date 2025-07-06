@@ -10,9 +10,14 @@
 * Sierpień
 
 Cele:
-* Dochód pasywny (2000 / mc)
-	* 
-	* Remont mieszkania
+* Dochód pasywny (2200 / mc)
+	* Mieszkanie 1 = 1200 PLN
+		* Rocznie
+	* Mieszkanie 2 = 1000 PLN
+		* Remont mieszkania = - 6000 PLN
+			* Amortyzacja = 6mcy
+			* 1 rok = 6000
+			* 2 rok = 10000
 * Usługi (2000 / mc)
 	* Coaching 
 		* A Super 
