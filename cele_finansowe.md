@@ -37,6 +37,9 @@ Cele:
 
 * Publikacje
 	* Dwa Światy
+		* AA Dziki sukces
+			* 1 050 000
+				* 
 		* A Super
 			* 1040 szt / rok @ 250
 			  250 000 PLN 
@@ -44,10 +47,11 @@ Cele:
 		* B Baza
 			* 208 szt / rok @ 200
 			  40 000 PLN 
-				  (1 sztuka / tydzień)
+				  (4 sztuki / tydzień)
 		  * C Minimum
 			  * 52 szt / rok @ 160
-	* Wiedza
+			    8 300 PLN
+				    (1 sztuka / tydzień)
 ```mermaid
 timeline
 lipiec
