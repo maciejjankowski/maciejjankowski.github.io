@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cele_finansowe.md",
+                "file": "prompts/prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cele_finansowe"
+              "title": "Backlinks for prompts"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cele_finansowe.md",
+                "file": "prompts/prompts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cele_finansowe"
+              "title": "Outline of prompts"
             }
           },
           {
@@ -214,11 +214,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "baa344d902852359",
+  "active": "c8e77a473a1ee483",
   "lastOpenFiles": [
+    "cele_finansowe.md",
     "prompts/prompts.md",
     "index.md",
-    "cele_finansowe.md",
     "Excalidraw/Drawing 2025-07-06 17.43.48.excalidraw.md",
     "Excalidraw",
     "projekty/ja.md",
