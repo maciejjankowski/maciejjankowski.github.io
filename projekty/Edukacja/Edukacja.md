@@ -20,3 +20,10 @@ Planowane
 
 
 * [notion templates](#)
+
+```mermaid
+graph TD;
+
+one -> two
+
+```
