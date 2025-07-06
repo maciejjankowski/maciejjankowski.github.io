@@ -23,7 +23,5 @@ Planowane
 
 ```mermaid
 graph TD;
-
-one -> two
-
+one --> two
 ```
