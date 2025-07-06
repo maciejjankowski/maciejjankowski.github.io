@@ -1,10 +1,11 @@
 * Bilans miesięczny
 	* Lipiec
 
-| Rozchody     | Wartość | Data |
-| ------------ | ------- | ---- |
-| Wynagrodznie |         |      |
-|              |         |      |
+| Rozchody      | Wartość | Data       |
+| ------------- | ------- | ---------- |
+| Wynagrodzenie | +21000  | 10.07.2025 |
+| Podatki / ZUS | -5000   | 10.07.2025 |
+| Czynsz        |         |            |
 
 	
 	* Sierpień
