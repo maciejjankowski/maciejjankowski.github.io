@@ -31,7 +31,7 @@ get_moon_phase_icon() {
         5) echo "🌖" ;;  # Waning Gibbous
         6) echo "🌗" ;;  # Last Quarter
         7) echo "🌘" ;;  # Waning Crescent
-        *) echo "🌑" ;;  # Default to New Moon
+        *) echo "X" ;;  # Default to New Moon
     esac
 }
 
@@ -45,6 +45,7 @@ phase_index=$(get_moon_phase $date_timestamp)
 moon_icon=$(get_moon_phase_icon $phase_index)
 
 # is my location important for the moon phase?
-echo "<div class='moon-icon' title='Moon Phase: $moon_icon'>$moon_icon</div>"
+# echo "<div class='moon-icon' title='Moon Phase: $moon_icon'>$moon_icon</div>"
+echo "$moon_icon"
 # Note: The moon phase is generally the same globally, but local time can affect the exact appearance of the moon at a given moment.
 # You can add CSS to style the moon icon as needed.
