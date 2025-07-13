@@ -9,3 +9,4 @@
 * [Języki miłości](jezyki_milosci.md) - różne osoby mają różne potrzeby w relacji i potrzebują określonych sygnałów, żeby czuć się kochane.
 * [Rodzaje terapii](rodzaje_terapii.md) - nad czym się pracuje, jakimi metodami, dla jakich obszarów są polecane
 * [Tematy dla terapeuty](tematy_dla_terapeuty.md) - czyli co warto poruszyć z terapeutą
+* [Przydatne narzędzia](narzedzia.md)
