@@ -1,3 +1,5 @@
+[Samorozwój](index.md)
+
 # Języki miłości
 Czyli sposoby, w jakie ludzie wyrażają i odbierają miłość: słowa afirmacji, dobry czas, prezenty, przysługi i dotyk fizyczny. Każdy człowiek ma preferowany język lub języki miłości, które są dla niego najważniejsze
 Oto szczegółowe wyjaśnienie każdego z pięciu języków miłości: 
