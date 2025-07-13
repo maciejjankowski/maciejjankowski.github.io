@@ -26,23 +26,23 @@ graph TD
 
     Zaufanie --> Akceptacja
     Zaufanie --> Podziw
-    Zaufanie --> Uczucie bezpieczeństwa
+    Zaufanie --> Uczucie_bezpieczeństwa
 
     Strach --> Niepokój
     Strach --> Przerażenie
     Strach --> Lęk
 
     Zaskoczenie --> Zdumienie
-    Zaskoczenie --> Zaskoczenie pozytywne
-    Zaskoczenie --> Zaskoczenie negatywne
+    Zaskoczenie --> Zaskoczenie_pozytywne
+    Zaskoczenie --> Zaskoczenie_negatywne
 
     Smutek --> Przygnębienie
     Smutek --> Żal
-    Smutek --> Smutek głęboki
+    Smutek --> Smutek_głęboki
 
     Wstret --> Pogarda
     Wstret --> Odraza
-    Wstret --> Wstręt silny
+    Wstret --> Wstręt_silny
 
     Gniew --> Irytacja
     Gniew --> Złość
