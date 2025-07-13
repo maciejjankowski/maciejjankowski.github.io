@@ -37,6 +37,7 @@ Teoria stylów przywiązania opisuje, jak budujemy relacje z innymi ludźmi, szc
 
 ## Gdzie dowiedzieć się więcej?
 
+- [Twój styl przywiązania. Jak tworzyć głębokie relacje i celebrować intymność - Książka](https://lubimyczytac.pl/ksiazka/5108058/twoj-styl-przywiazania-jak-tworzyc-glebokie-relacje-i-celebrowac-intymnosc)
 - **Testy online:** Możesz sprawdzić swój styl przywiązania, korzystając z bezpłatnych testów dostępnych w internecie, np. na stronie widokipsychoterapia.pl.
 - **Konsultacja z psychoterapeutą:** Specjalista pomoże zrozumieć Twój styl przywiązania i jego wpływ na relacje oraz wskaże możliwości pracy nad zmianą niekorzystnych wzorców.
 
