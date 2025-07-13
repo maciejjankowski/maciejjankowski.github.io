@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of index"
             }
           },
           {
@@ -187,6 +187,7 @@
   },
   "active": "baa344d902852359",
   "lastOpenFiles": [
+    "README.md",
     "Screenshot 2023-10-11 at 11.45.56.png",
     "Edukacja/Edukacja.md",
     "_meta/moon_debug.php",
@@ -204,7 +205,6 @@
     "Users/mj/Library/Mobile Documents/iCloud~md~obsidian/Documents/README.md",
     "projekty/Dwa Światy/dwa-swiaty-rpg.md",
     "projekty/zajawki/todo.md",
-    "README.md",
     "Users/mj/Library/Mobile Documents/iCloud~md~obsidian/Documents",
     "Users/mj/Library/Mobile Documents/iCloud~md~obsidian",
     "Users/mj/Library/Mobile Documents",
