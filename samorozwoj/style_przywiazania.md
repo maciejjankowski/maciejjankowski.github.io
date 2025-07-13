@@ -1,4 +1,6 @@
-## Style przywiązania
+[Samorozwój](index.md)
+
+# Style przywiązania
 
 Teoria stylów przywiązania opisuje, jak budujemy relacje z innymi ludźmi, szczególnie w kontekście bliskości i zaufania. Wyróżnia się cztery główne style przywiązania, które mają wpływ na funkcjonowanie w związkach, rodzinie i relacjach społecznych.
 

@@ -1,4 +1,6 @@
-## Wskazania do podjęcia terapii – najczęstsze tematy
+[Samorozwój](index.md)
+
+# Wskazania do podjęcia terapii – najczęstsze tematy
 
 Podjęcie terapii psychologicznej może być pomocne w wielu sytuacjach życiowych i problemach emocjonalnych. Poniżej przedstawiono najczęstsze tematy i obszary, które są wskazaniem do rozpoczęcia pracy terapeutycznej.
 

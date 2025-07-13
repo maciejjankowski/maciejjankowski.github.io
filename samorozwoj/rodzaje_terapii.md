@@ -1,3 +1,5 @@
+[Samorozwój](index.md)
+
 # Rodzaje psychoterapii
 Najważniejsze nurty psychoterapii – ich cele, metody pracy oraz obszary, w których są najczęściej polecane.
 ## Psychoterapia poznawczo-behawioralna (CBT)

@@ -1,4 +1,6 @@
-## MBTI – Przegląd
+[Samorozwój](index.md)
+
+# MBTI – Przegląd
 
 MBTI (Myers-Briggs Type Indicator) to popularny model opisu osobowości, oparty na teorii Carla Gustava Junga, rozwinięty przez Isabel Briggs Myers i Katharine Cook Briggs. MBTI wyróżnia 16 typów osobowości, opisanych na podstawie czterech wymiarów preferencji psychicznych.
 

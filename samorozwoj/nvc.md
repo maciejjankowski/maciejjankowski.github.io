@@ -1,4 +1,6 @@
-## NVC – Porozumienie bez Przemocy (Nonviolent Communication)
+[Samorozwój](index.md)
+
+# NVC – Porozumienie bez Przemocy (Nonviolent Communication)
 
 NVC (Nonviolent Communication), czyli Porozumienie bez Przemocy, to metoda komunikacji opracowana przez Marshalla B. Rosenberga. Jej celem jest budowanie empatycznych, szczerych i pełnych szacunku relacji – zarówno z innymi, jak i z samym sobą. NVC pomaga rozwiązywać konflikty, wyrażać potrzeby bez osądzania i reagowania przemocą (słowną, emocjonalną).
 
