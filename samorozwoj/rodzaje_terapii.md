@@ -95,7 +95,7 @@ Terapie, które spróbowałem i umożliwiły mi rozwój lub przygotowały na pra
 - **Metody:** Powolny ucisk, rozciąganie, rozluźnianie napiętych obszarów.
 - **Cele:** Przywrócenie elastyczności, redukcja bólu i napięć, poprawa samopoczucia psychofizycznego.
 
-#### 4. Doświadczenia psychodeliczne (terapia wspierana psychodelikami)
+#### 4. [Terapie psychodeliczne](psychodeliki.md)
 - **Opis:** W kontrolowanych warunkach terapeutycznych stosuje się substancje psychodeliczne (np. psylocybinę, MDMA).
 - **Metody:** Sesje z użyciem substancji, integracja doświadczeń z terapeutą.
 - **Cele:** Przełamanie sztywnych schematów, głębokie wglądy, uwolnienie emocji, poprawa relacji z samym sobą.
