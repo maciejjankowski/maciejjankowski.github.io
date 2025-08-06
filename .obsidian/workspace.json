@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "samorozwoj/kolo_emocji.md",
+                "file": "cal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kolo_emocji"
+              "title": "cal"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "samorozwoj/kolo_emocji.md",
+                "file": "cal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of kolo_emocji"
+              "title": "Outline of cal"
             }
           },
           {
@@ -185,10 +185,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "baa344d902852359",
+  "active": "9e667a999eef1792",
   "lastOpenFiles": [
-    "samorozwoj/narzedzia.md",
+    "art.md",
+    "cal.md",
+    "art2.md",
+    "HOWTO github pages.md",
     "index.md",
+    "peers.md",
+    "qr.md",
+    "samorozwoj/kolo_emocji.md",
+    "syn.md",
+    "samorozwoj/narzedzia.md",
     "README.md",
     "Screenshot 2023-10-11 at 11.45.56.png",
     "Edukacja/Edukacja.md",
@@ -215,14 +223,6 @@
     "projekty/zajawki/podstawy hiphopu.md",
     "projekty/zajawki/medyczna-platforma-rezerwacyjna.md",
     "projekty/zajawki/chatboty.md",
-    "kariera/kariera.md",
-    "uslugi/warsztaty/bad.md",
-    "uslugi/uslugi.md",
-    "uslugi/coaching/index.md",
-    "uslugi/konsulting/Early stage startup.md",
-    "HOWTO github pages.md",
-    "projekty/zajawki/Giancarlo e Bella Kita/bajki/3.md",
-    "cal.md",
-    "art.md"
+    "kariera/kariera.md"
   ]
 }
