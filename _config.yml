@@ -7,17 +7,17 @@ author: Maciej Jankowski
 permalink: pretty
 baseurl: ""
 url: ""
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-mentions
-  - jekyll-paginate
-  - jekyll-archives
-  - jekyll-assets
-  - jekyll-include-cache
-  - jekyll-gist
-  - jekyll-redirect-from
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
+#   - jekyll-sitemap
+#   - jekyll-mentions
+#   - jekyll-paginate
+#   - jekyll-archives
+#   - jekyll-assets
+#   - jekyll-include-cache
+#   - jekyll-gist
+#   - jekyll-redirect-from
 
 gems:
   - jekyll-mentions

@@ -30,12 +30,12 @@
   const showActiveTheme = theme => {
     const activeThemeIcon = document.querySelector('.theme-icon-active i')
     const btnToActive = document.querySelector(`[data-bs-theme-value="${theme}"]`)
-    const svgOfActiveBtn = btnToActive.querySelector('span i').getAttribute('class')
-
+    if (!activeThemeIcon || !btnToActive) return
+    const svgOfActiveBtn = btnToActive.querySelector('span i')?.getAttribute('class')
+    if (!svgOfActiveBtn) return
     document.querySelectorAll('[data-bs-theme-value]').forEach(element => {
       element.classList.remove('active')
     })
-
     btnToActive.classList.add('active')
     activeThemeIcon.setAttribute('class', svgOfActiveBtn)
   }
