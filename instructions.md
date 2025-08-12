@@ -1,0 +1,2 @@
+1. comb over: "templates/mombo/dist/*"
+2. for each template, identify blocks and placeholders then create pre-filled markdown contents based on my current website contents, if there is no example in my contents then just make something up, but only if you don't find anything useful
