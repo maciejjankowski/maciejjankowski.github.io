@@ -1,8 +1,24 @@
-title: maciejjankowski.github.io
-description: 
-google_analytics: 
+title: Maciej Jankowski
+description: >-
+  Personal website, blog, and portfolio of Maciej Jankowski. Thoughts, projects, and resources on technology, creativity, and self-development.
+google_analytics: UA-XXXXXXXXX-X
 show_downloads: false
 theme: jekyll-theme-mombo
+author: Maciej Jankowski
+permalink: pretty
+baseurl: ""
+url: ""
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-assets
+  - jekyll-include-cache
+  - jekyll-gist
+  - jekyll-redirect-from
 
 gems:
   - jekyll-mentions
