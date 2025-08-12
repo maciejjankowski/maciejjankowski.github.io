@@ -3,7 +3,6 @@ description: >-
   Personal website, blog, and portfolio of Maciej Jankowski. Thoughts, projects, and resources on technology, creativity, and self-development.
 google_analytics: UA-XXXXXXXXX-X
 show_downloads: false
-theme: jekyll-theme-mombo
 author: Maciej Jankowski
 permalink: pretty
 baseurl: ""
