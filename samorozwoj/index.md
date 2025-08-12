@@ -1,12 +1,34 @@
-# Narzędzia przydatne w samorozwoju i budowaniu relacji
-
-* [NVC](nvc.md) - sposób komunikacji pozwalajacy łatwiej wyrazać swoje potrzeby i emocje. Od kiedy zacząłem go używać poprawiła się jakość komunikacji w naszej relacji - przynajmniej część z naszych kłótni zamieniło się w rozmowy o potrzebach i emocjach, oraz ułatwiło znajdowanie rozwiązań
-* [MBTI](mbti.md) - czterowymiarowy test osobowości, daje pewne wskazówki, że jesteśmy różni, inaczej postrzegamy świat i inaczej reagujemy. Ułatwia komunikację
-* Karty i gry wspomagające budowanie relacji
-    * [Miło, że pytasz](https://emocjolandia.pl/produkt/gra-konwersacyjna-milo-ze-pytasz/) - karty z pytaniami, dzięki którym można lepiej poznać drugą osobę. Są lekkie, pytania są ciekawe i są dobrą bazą do głębszych rozmów - sprawdzą się i w relacji, i z nastolatkiem, i w kręgu znajomych. Jest kilka wersji dostosowanych do rodzaju relacji.
-* [Koło emocji](kolo_emocji.md) - pomaga nazwać to co czujesz, bo czasami może być trudno opisać swój stan słowami
-* [Style przywiązania](style_przywiazania.md) - opisują jak nawiązujemy relacje, jakie tempo nam odpowiada, jakie rzeczy nas przyciągają, a jakie przytłaczają.
-* [Języki miłości](jezyki_milosci.md) - różne osoby mają różne potrzeby w relacji i potrzebują określonych sygnałów, żeby czuć się kochane.
-* [Rodzaje terapii](rodzaje_terapii.md) - nad czym się pracuje, jakimi metodami, dla jakich obszarów są polecane
-* [Tematy dla terapeuty](tematy_dla_terapeuty.md) - czyli co warto poruszyć z terapeutą
-* [Przydatne narzędzia](narzedzia.md)
+---
+layout: samorozwoj
+title: Narzędzia przydatne w samorozwoju i budowaniu relacji
+description: Zbiór narzędzi, materiałów i gier wspierających rozwój osobisty, komunikację i budowanie relacji.
+resources:
+  - title: "NVC – Porozumienie bez przemocy"
+    url: nvc.md
+    desc: "Sposób komunikacji pozwalający łatwiej wyrażać swoje potrzeby i emocje. Poprawia jakość komunikacji i ułatwia rozwiązywanie konfliktów."
+  - title: "MBTI – Test osobowości"
+    url: mbti.md
+    desc: "Czterowymiarowy test osobowości, który pomaga zrozumieć różnice w postrzeganiu świata i komunikacji."
+  - title: "Miło, że pytasz (gra)"
+    url: https://emocjolandia.pl/produkt/gra-konwersacyjna-milo-ze-pytasz/
+    desc: "Karty z pytaniami do głębszych rozmów i budowania relacji. Sprawdzą się w relacji, z nastolatkiem i w kręgu znajomych."
+    external: true
+  - title: "Koło emocji"
+    url: kolo_emocji.md
+    desc: "Pomaga nazwać to, co czujesz, gdy trudno opisać swój stan słowami."
+  - title: "Style przywiązania"
+    url: style_przywiazania.md
+    desc: "Opisują jak nawiązujemy relacje, jakie tempo nam odpowiada, co nas przyciąga, a co przytłacza."
+  - title: "Języki miłości"
+    url: jezyki_milosci.md
+    desc: "Różne osoby mają różne potrzeby w relacji i potrzebują określonych sygnałów, żeby czuć się kochane."
+  - title: "Rodzaje terapii"
+    url: rodzaje_terapii.md
+    desc: "Nad czym się pracuje, jakimi metodami, dla jakich obszarów są polecane."
+  - title: "Tematy dla terapeuty"
+    url: tematy_dla_terapeuty.md
+    desc: "Co warto poruszyć z terapeutą."
+  - title: "Przydatne narzędzia"
+    url: narzedzia.md
+    desc: "Lista narzędzi wspierających rozwój osobisty."
+---
