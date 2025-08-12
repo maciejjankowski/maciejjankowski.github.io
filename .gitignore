@@ -10,4 +10,6 @@ projekty/migration/secrets.py
 projekty/migration/data/*
 projekty/code_twogether/venv/*
 __pycache__
-templates
+templates/WB02DSN1B
+templates/mombo/template
+templates/mombo/template-doc
