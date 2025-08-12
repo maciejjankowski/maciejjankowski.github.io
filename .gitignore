@@ -11,3 +11,4 @@ projekty/migration/data/*
 projekty/code_twogether/venv/*
 vendor
 __pycache__
+templates
