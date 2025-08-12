@@ -21,3 +21,5 @@ url: ""
 
 gems:
   - jekyll-mentions
+include:
+  - test-mombo-homepage.html
