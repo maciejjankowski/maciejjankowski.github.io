@@ -1,3 +1,4 @@
+---
 layout: mombo
 title: Maciej Jankowski
 description: Personal website, blog, and portfolio of Maciej Jankowski. Thoughts, projects, and resources on technology, creativity, and self-development.
@@ -22,4 +23,5 @@ hero_blocks:
     text: "Razem z @maciekprzepiorka zabierzemy publiczność w dźwiękową podróz podczas naszego 40 minutowego live-actu."
   - title: "Baza wiedzy samorozwojowej:"
     text: "Zbudowana na podstawie moich doświadczeń z terapią, wyprawami wgłąb umysłu i oswajaniem swoich demonów. Znajdziesz tutaj przydatne narzędzia do poszukiwania własnej drogi, pracy nad sobą, swoimi relacjami oraz osiąganiem celów."
+---
 
