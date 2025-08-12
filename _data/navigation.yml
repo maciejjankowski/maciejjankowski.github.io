@@ -1,14 +1,15 @@
 - title: Home
   url: /
-- title: Demos
-  url: /#demos
-- title: Pages
-  url: /#pages
-- title: Portfolio
-  url: /#portfolio
 - title: Samorozwój
   url: /samorozwoj/
 - title: Oferta
   url: /oferta/
+  children:
+    - title: Brando
+      url: /oferta/brando.md
+    - title: Coaching
+      url: /oferta/coaching.md
+    - title: Buy Back Your Time
+      url: /oferta/buy_back_you_time.md
 - title: Blog
   url: /blog/
