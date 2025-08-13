@@ -3,7 +3,7 @@ layout: mombo
 style: marketing
 title: Marketing is one of the most important aspects of running a successful business
 description: After we understand your business goals and target audience, we will recommend the assets that are most likely to help you achieve your goals and reach your target audience.
-permalink: /marketing-blog-single/
+permalink: /examples/marketing-blog-single/
 hero:
   heading: Marketing is one of the most important aspects of running a successful business
   image: /assets/img/marketing/banner-01.jpg

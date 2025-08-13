@@ -1,7 +1,7 @@
 ---
 layout: mombo
 style: coworking
-permalink: /coworking-contact/
+permalink: /examples/coworking-contact/
 title: Contact Us
 description: >
   Get in touch with our team for workspace tours, support, and more.

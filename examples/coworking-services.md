@@ -1,7 +1,7 @@
 ---
 layout: mombo
 style: coworking
-permalink: /coworking-services/
+permalink: /examples/coworking-services/
 title: Coworking Services
 description: >
   Explore our flexible workspace solutions and premium amenities.

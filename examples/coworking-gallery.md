@@ -1,7 +1,7 @@
 ---
 layout: mombo
 style: coworking
-permalink: /coworking-gallery/
+permalink: /examples/coworking-gallery/
 title: Gallery
 description: >
   Explore our coworking space and see what makes us unique.

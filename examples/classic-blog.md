@@ -1,7 +1,7 @@
 ---
 layout: mombo
 style: classic
-permalink: /classic-blog/
+permalink: /examples/classic-blog/
 title: Blog
 hero:
   heading: Blog

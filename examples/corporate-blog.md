@@ -1,4 +1,6 @@
+---
 layout: mombo
+permalink: /examples/corporate-blog/
 menu_nav:
   - title: One Page 02
     url: /examples/one-page-02

@@ -1,7 +1,7 @@
 ---
 layout: mombo
 style: classic
-permalink: /classic-services/
+permalink: /examples/classic-services/
 title: Services
 hero:
   heading: Services

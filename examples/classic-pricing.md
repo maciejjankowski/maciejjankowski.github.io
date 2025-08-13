@@ -2,7 +2,7 @@
 layout: mombo
 style: classic
 page_type: pricing
-permalink: /classic-pricing/
+permalink: /examples/classic-pricing/
 title: Our Price - Transparent Pricing Plans
 description: >
   Choose the perfect plan for your business. Flexible pricing options for startups, small businesses, and enterprises.

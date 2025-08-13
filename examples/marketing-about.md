@@ -1,3 +1,4 @@
+---
 layout: mombo
 menu_nav:
   - title: One Page 02
@@ -43,7 +44,7 @@ menu_nav:
 style: marketing
 title: About Us
 description: Learn more about our marketing agency, our partners, and our mission to scale your brand.
-permalink: /marketing-about/
+permalink: /examples/marketing-about/
 hero:
   heading: About Us
   image: /assets/img/marketing/banner-01.jpg

@@ -1,7 +1,7 @@
 ---
 layout: mombo
 style: coworking
-permalink: /coworking-about/
+permalink: /examples/coworking-about/
 title: About Our Coworking Space
 description: >
   Discover what makes our coworking community unique, flexible, and inspiring.

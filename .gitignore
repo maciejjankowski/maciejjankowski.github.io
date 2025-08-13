@@ -13,3 +13,6 @@ __pycache__
 templates/WB02DSN1B
 templates/mombo/template
 templates/mombo/template-doc
+_site
+.venv/*
+.vscode/*

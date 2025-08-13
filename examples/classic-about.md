@@ -1,7 +1,7 @@
 ---
 layout: mombo
 style: classic
-permalink: /classic-about/
+permalink: /examples/classic-about/
 title: About Us
 hero:
   heading: About

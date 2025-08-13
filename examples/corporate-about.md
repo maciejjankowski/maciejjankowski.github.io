@@ -1,3 +1,4 @@
+---
 layout: mombo
 menu_nav:
   - title: One Page 02

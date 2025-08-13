@@ -1,4 +1,6 @@
+---
 layout: mombo
+permalink: /examples/marketing-index/
 menu_nav:
   - title: One Page 02
     url: /examples/one-page-02
@@ -47,7 +49,7 @@ description: >
   Find your quality leads in a single click. We help brands stand out with creative marketing, digital strategy, and high-impact campaigns.
 hero:
   heading: Find your quality leads in a single click.
-  subheading: >
+permalink: /examples/marketing-index/
     We help brands stand out with creative marketing, digital strategy, and high-impact campaigns.
   cta:
     text: Request a demo
@@ -181,10 +183,11 @@ footer:
 ## {{ page.blog.heading }}
 
 {% for post in page.blog.items %}
-- [{{ post.title }}]({{ post.url }})
+ - [{{ post.title }}](/examples{{ post.url }})
 {% endfor %}
 
 <!-- Footer CTA -->
 > {{ page.footer.cta }}
 
-[{{ page.footer.cta_button }}]({{ page.footer.cta_url }})
+[{{ page.footer.cta_button }}](/examples{{ page.footer.cta_url }})
+> {{ page.footer.cta }}

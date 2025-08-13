@@ -1,3 +1,4 @@
+---
 layout: mombo
 menu_nav:
   - title: One Page 02
@@ -41,7 +42,7 @@ menu_nav:
   - title: Software Index
     url: /examples/software-index
 style: restaurant
-permalink: /restaurant/
+permalink: /examples/restaurant/
 title: Amazing Table with River View & lot of Menus
 description: >
   Exquisite dining experience with traditional Polish cuisine and modern international dishes. Our restaurant has been serving exceptional food for over 15 years.
@@ -129,7 +130,6 @@ footer:
       31-042 Kraków, Poland
     email: maciej@tradycyjnarestauracja.pl
     phone: +48 123 456 789
----
 # {{ page.hero.heading }}
 
 {{ page.hero.subheading }}
@@ -196,7 +196,6 @@ menu_nav:
 ### {{ page.menu.badge }}
 
 {% for item in page.menu.items %}
-- **{{ item.name }}** - {{ item.price }}
   {{ item.description }}
 {% endfor %}
 
@@ -219,19 +218,13 @@ menu_nav:
 
 {{ page.reservation.description }}
 
----
 
 **Restaurant Hours:**
 {% for hour in page.footer.hours %}
-- {{ hour.day }}: {{ hour.time }}
 {% endfor %}
 {% if page.footer.hours[3] %}
-- {{ page.footer.hours[3].special }}: {{ page.footer.hours[3].time }}
 {% endif %}
 
 **Contact Information:**
-- Address: {{ page.footer.contact.address }}
-- Email: {{ page.footer.contact.email }}
-- Phone: {{ page.footer.contact.phone }}
 
 > {{ page.footer.about }}

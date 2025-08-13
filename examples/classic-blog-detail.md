@@ -1,7 +1,7 @@
 ---
 layout: mombo
 style: classic
-permalink: /classic-blog-detail/
+permalink: /examples/classic-blog-detail/
 title: Blog Single
 hero:
   heading: I like the body. I like to design everything to do with the body.

@@ -1,3 +1,4 @@
+---
 layout: mombo
 menu_nav:
   - title: One Page 02
@@ -43,7 +44,7 @@ menu_nav:
 style: marketing
 title: Blog
 description: Insights, tips, and updates from our marketing team.
-permalink: /marketing-blog/
+permalink: /examples/marketing-blog/
 hero:
   heading: Blog
   image: /assets/img/marketing/home-banner.jpg

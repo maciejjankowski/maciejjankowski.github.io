@@ -1,3 +1,4 @@
+---
 layout: mombo
 menu_nav:
   - title: One Page 02
@@ -43,7 +44,7 @@ menu_nav:
 style: marketing
 title: Projects
 description: Explore our marketing projects and see how we help brands grow online.
-permalink: /marketing-projects/
+permalink: /examples/marketing-projects/
 hero:
   heading: Projects
   image: /assets/img/marketing/home-banner.jpg

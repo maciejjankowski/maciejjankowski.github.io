@@ -1,4 +1,6 @@
+---
 title: One Page Variant 03
+layout: mombo
 menu_nav:
   - title: One Page 02
     url: /examples/one-page-02
@@ -40,7 +42,6 @@ menu_nav:
     url: /examples/restaurant-index
   - title: Software Index
     url: /examples/software-index
-layout: mombo
 menu:
   - Home
   - About

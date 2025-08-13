@@ -42,7 +42,7 @@ menu_nav:
     url: /examples/software-index
 style: classic
 variant: 02
-permalink: /classic-02/
+permalink: /examples/classic-index-02/
 title: Our Analysis is your financial results - Digital Innovation
 description: >
   Modern digital marketing solutions with creative multipurpose design. Advanced analytics and financial insights for startups and growing businesses.

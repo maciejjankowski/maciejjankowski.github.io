@@ -1,3 +1,4 @@
+---
 layout: mombo
 menu_nav:
   - title: One Page 02
@@ -41,7 +42,7 @@ menu_nav:
   - title: Software Index
     url: /examples/software-index
 style: one-page
-permalink: /one-page/
+permalink: /examples/one-page-index/
 title: One Page Template
 hero:
   heading: Welcome to Our One Page Experience

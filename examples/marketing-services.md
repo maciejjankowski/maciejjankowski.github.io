@@ -3,7 +3,7 @@ layout: mombo
 style: marketing
 title: Services
 description: Offering A Variety Of High-End Services
-permalink: /marketing-services/
+permalink: /examples/marketing-services/
 hero:
   heading: Services
   image: /assets/img/marketing/banner-01.jpg

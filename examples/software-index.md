@@ -1,3 +1,4 @@
+---
 layout: mombo
 menu_nav:
   - title: One Page 02
@@ -41,7 +42,7 @@ menu_nav:
   - title: Software Index
     url: /examples/software-index
 style: software
-permalink: /software/
+permalink: /examples/software/
 title: Software Solutions for Modern Teams
 hero:
   heading: Empower Your Business with Software

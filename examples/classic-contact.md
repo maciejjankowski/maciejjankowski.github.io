@@ -1,7 +1,7 @@
 ---
 layout: mombo
 style: classic
-permalink: /classic-contact/
+permalink: /examples/classic-contact/
 title: Contact Us
 hero:
   heading: Contact

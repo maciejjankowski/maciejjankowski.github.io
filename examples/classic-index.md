@@ -1,7 +1,7 @@
 ---
 layout: mombo
 style: classic
-permalink: /classic/
+permalink: /examples/classic/
 title: Our Analysis is your financial results
 description: >
   Mombo is a modern multipurpose template for startups and creative businesses. Build anything you want.

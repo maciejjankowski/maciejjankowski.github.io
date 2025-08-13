@@ -1,3 +1,4 @@
+---
 layout: mombo
 menu_nav:
   - title: One Page 02
@@ -41,7 +42,7 @@ menu_nav:
   - title: Software Index
     url: /examples/software-index
 style: coworking
-permalink: /coworking-book-a-tour/
+permalink: /examples/coworking-book-a-tour/
 title: Book a Tour
 description: >
   Schedule a visit to experience our coworking space in person.

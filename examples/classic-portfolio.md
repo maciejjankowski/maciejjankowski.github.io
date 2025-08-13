@@ -1,8 +1,9 @@
 ---
 layout: mombo
+permalink: /examples/classic-portfolio/
 style: classic
 page_type: portfolio
-permalink: /classic-portfolio/
+permalink: /examples/classic-portfolio/
 title: Portfolio - Our Latest Work
 description: >
   Explore our diverse portfolio of creative projects, from web design and branding to digital marketing campaigns and technical solutions.

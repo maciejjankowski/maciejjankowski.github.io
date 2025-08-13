@@ -1,6 +1,6 @@
 layout: mombo
 menu_nav:
-  - title: One Page 02
+permalink: /examples/corporate-index/
     url: /examples/one-page-02
   - title: One Page 03
     url: /examples/one-page-03
@@ -158,14 +158,14 @@ We help organizations grow with tailored digital solutions. Our team delivers me
 
 ## Get insight for your business
 
-Discover how our analytics can drive your growth. [Get Started today](/contact)
+Discover how our analytics can drive your growth. [Get Started today](/examples/contact)
 
 ---
 
 ## Latest Article
 
 **How to Build a High-Performing Team**  
-Learn the secrets to assembling and leading a successful team. [Read more](/blog/high-performing-team)
+Learn the secrets to assembling and leading a successful team. [Read more](/examples/blog/high-performing-team)
 
 ---
 

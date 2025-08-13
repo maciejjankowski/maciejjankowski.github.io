@@ -1,7 +1,7 @@
 ---
 layout: mombo
 style: seo
-permalink: /seo/
+permalink: /examples/seo/
 title: We Help Businesses Rank Higher in Search Engines
 description: >
   Professional SEO services including technical SEO, on-page optimization, off-page optimization, and content marketing to help your business grow online.

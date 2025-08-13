@@ -3,7 +3,7 @@ layout: mombo
 style: marketing
 title: Marketing - How to grow online with reels?
 description: See how we helped brands grow online with creative marketing campaigns and digital strategy.
-permalink: /marketing-projects-details/
+permalink: /examples/marketing-projects-details/
 hero:
   heading: Marketing - How to grow online with reels?
   image: /assets/img/marketing/home-banner.jpg

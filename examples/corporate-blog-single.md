@@ -1,5 +1,6 @@
 ---
 layout: mombo
+permalink: /examples/corporate-blog-single/
 title: "How to Build a High-Performing Team"
 category: "Corporate"
 author: "Maciej Jankowski"

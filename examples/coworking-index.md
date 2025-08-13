@@ -1,7 +1,7 @@
 ---
 layout: mombo
 style: coworking
-permalink: /coworking/
+permalink: /examples/coworking/
 title: Build a better office environment.
 description: >
   Flexible coworking spaces for modern teams. Book your office, join our community, and grow your business.

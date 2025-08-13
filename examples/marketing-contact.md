@@ -3,7 +3,7 @@ layout: mombo
 style: marketing
 title: Contact
 description: Let's talk content. Get in touch for a free 30min consultation or to discuss your project goals.
-permalink: /marketing-contact/
+permalink: /examples/marketing-contact/
 hero:
   heading: Let's Talk Content
   image: /assets/img/marketing/home-banner.jpg
