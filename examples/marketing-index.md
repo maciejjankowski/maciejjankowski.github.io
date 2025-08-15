@@ -51,11 +51,11 @@ hero:
   heading: Find your quality leads in a single click.
 permalink: /examples/marketing-index/
     We help brands stand out with creative marketing, digital strategy, and high-impact campaigns.
-  cta:
-    text: Request a demo
+cta:
+  - text: Request a demo
     url: /marketing-contact
-  secondary:
-    text: Already using Mombo? Login
+secondary:
+  - text: Already using Mombo? Login
     url: /login
 projects:
   heading: Our Projects

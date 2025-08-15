@@ -1,6 +1,8 @@
+---
 layout: mombo
-menu_nav:
 permalink: /examples/corporate-index/
+menu_nav:
+  - title: One Page 02
     url: /examples/one-page-02
   - title: One Page 03
     url: /examples/one-page-03

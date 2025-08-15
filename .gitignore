@@ -16,3 +16,4 @@ templates/mombo/template-doc
 _site
 .venv/*
 .vscode/*
+assets/vendor/reveal.js
