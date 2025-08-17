@@ -1,7 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-## Topic Outline:
-
 ### 1. **Podcast Creation \& Production Philosophy**
 
 - Discussion about editing approaches and multiple versions
@@ -205,8 +201,142 @@ ale musiałby się rozciągnąć ad infinitum. No to właśnie to... Ale to też
 Tak? Jak to? Jaki dowód? Znasz ten eksperyment, gdzie leci elektron na ścianę i ma dwie szpary przed sobą? Tak. I ten elektron w formie fali? No, coś takiego było. No to w momencie, kiedy nie ma obserwatora, to masz dokładnie dwa paski naprzeciwko tych dwóch szpar. Rozumiem.
 
 No bo logiczne, tak? Że je
+Że jeśli puszczasz dużo tych elektronów, to przejdą jedną albo drugą, 50-50, masz dwa paski. Wyobraź sobie, że w tym samym eksperymencie z dwoma szparami, jak postawisz oko, które patrzy na te dwie szpary, w sensie w tej fali, w tej chmurze prawdopodobieństwa - którą elektron wybierze bramkę? To wiesz, co elektron robi? Wybiera którąś z bramek, ale później losowo ląduje na drugiej ścianie.
 
-<div style="text-align: center">⁂</div>
+Wiesz co, powiem Ci, że zrobiłbym taki eksperyment ze szparami. Ale Maciek, to jest tak jakby... On taką fajną rzecz chciał stworzyć. To jest tak jakby nad Tobą stał jakiś ojciec czy wuj i Cię obserwował i Ty właśnie wtedy się na złość mu chaotycznie zachowujesz, a jak nikt nie patrzy, jesteś uporządkowany. Ty to akurat bardzo dobrze rozumiesz. Jak ktoś nie patrzy, to oczywiście się porządkujesz.
 
-[^1]: paste.txt
+Ale rozumiesz - to się naprawdę dzieje w fizyce kwantowej, w sensie obserwacja ma wpływ na rzeczywistość.
+
+Moim zdaniem to, że jeśli obserwacja ma wpływ na rzeczywistość w fizyce kwantowej, to obserwacja też ma wpływ na rzeczywistość, którą tu widzimy. Nie wiem, jak prowadzę ten samochód, jak myślę o tobie, jak myślę o mojej dziewczynie, jak myślę o moich projektach, o pieniądzach. Aha. Że "universe is mental". Jest mentalna. Że rzeczywistość jest mentalna. Rzeczywistość jest pierwotnie niematerialna, wtórnie materialna.
+
+Podoba mi się ta myśl, czy też to założenie, że wymyślasz sobie swoją rzeczywistość, kreujesz ją swoimi myślami.
+
+Pamiętasz tę książkę "Cztery Umowy"? Ooo, tak, pamiętam ją, jest super. Ale widzisz, chcę do niej wrócić. No to w tej książce, Don Miguel Ruiz, coś takiego? Tak. W tej książce jest napisane, że albo będziesz żył swoim snem, albo będziesz żył czyimś snem.
+
+Tak. Ale zawsze będziesz jakimś snem żył. Zawsze będziesz jakimś snem żył. Ale to jest niesamowicie, ty wiesz, to... Och, to jest tak złe i tak dobre jednocześnie. A, wiem komuś, że tę książkę polecę. Wiesz, poznałem taką przepiękną, zjawiskową dziewczynę. Muszę jej koniecznie polecić tę książkę. Może jej... chyba nawet mam tę książkę po angielsku. Nie zrzucaj wszystkiego z głowy. Dobrze, bez dygresji zbędnych tym razem. Którą i tak wytnę.
+
+którą i tak wytniesz, więc bez dygresji zbędnych powiem Ci tylko, że jest też inna książka, która mówi dokładnie o tym samym, że albo będziesz żył swoim snem, albo będziesz żył czyimś snem.
+
+I powiem Ci, że jest przekora losu. Tytuł książki. Nie, to nie jest istotne. Wiesz, istotne jest to, co... istotne jest moje doświadczenie z tym. Jest po prostu tak przewrotne doświadczenie, które z tym mam, że na przykład jak masz listę dziesięciu rzeczy, które są Ci potrzebne i masz je w głowie i sobie zrobiłeś tę listę. Hej, chcę czegoś osiągnąć.
+
+ale zapomniałeś o jakiejś jednej rzeczy, która jeżeli będzie razem z tym wszystkim, to Ci to zepsuje, to czasami potrafi się tak zdarzyć, że ta rzecz, o której nie pomyślałeś, jaka ma być, nie jest zdefiniowana... Podaj jakiś przykład, bo mówisz strasznie abstrakcyjnie... No dobra, na przykład, słuchaj, kiedyś sobie wymyśliłem, że będę pracował w bardzo znanej, rozpoznawalnej firmie.
+
+w branży IT. Okej. Ale nie wymyśliłem sobie jak tam będę pracował. Okej. I wiesz co? Nie pracowałem tam przy tej przełomowej technologii, ale pracowałem przy czymś kompletnie innym. Bo nie wyobraziłeś sobie... Dokładnie tego jak chciałbym tam pracować. A znasz... Znasz, Maciej, tę...
+
+Czy znasz tę metodę trenowania koszykarzy? Że koszykarze mają trenować pół godziny dziennie, a pół godziny sobie wizualizować rzut za trzy punkty? No co ty? A inni trenują godzinę dziennie, ale nie wizualizują? No co ty? I kto częściej trafia? No chyba żartujesz! Przysięgam ci. O, piękne! Można to sprawdzić w Google. Stary, to jest cudowne, I love it. A znasz metodę sportowców odtwarzania taśmy u pływaków?
+
+Co? Pływak ma odtworzyć taśmę. Na zasadzie... Zrobiłeś życiówkę. Pamiętasz jak machałeś rękami? Tak. Pamiętasz jak oddychałeś? Tak. Zapisz na taśmie. Zapisałem trenerze. Odtwórz taśmę następnym razem na zawodach! No przysięgam Ci! No tak to działa! Naprawdę! Naprawdę!
+
+Ale to jest piękne! Wow! Dlatego te formative moments są tak ważne. Dlatego warto pisać swoją... swoją sefirę. Muszę to zrobić! Trzeba pisać swój program. Muszę to zrobić, muszę pisać swój program. Ej, stary, jarę się. Kurde, są dwie mocne techniki. Ale po to pisaliśmy życiorys. Weź te najlepsze rzeczy z życiorysu i trzy razy dziennie na dywaniku je sobie czytaj. Tak, stary, muszę to zrobić. Muszę sobie napisać swój życiorys.
+
+Wiesz co, przepraszam. Nie życiorys, esencję życiorysu, tylko big moments, formative moments i wracać do nich. Tak, stary! Wiesz co, powiem Ci, że ostatnio jak pisałem swój opis w pewnej aplikacji randkowej, uderzyło mnie, wiesz co, uderzyło mnie centralnie to - słuchaj, mam życiorys, można spokojnie obdzielić trzem osobom i to tak leciutko, dla każdego starczy.
+
+Obdziel mnie. Tak, serio, wiesz, to jest tyle właśnie tych formative moments, tych decydujących momentów, które później zaważyły na czymś. Kurczę, pamiętam jak dziś, to był pierwszy rok studiów, byłem u kumpla na stacji.
+
+Poznałem gościa, który pokazał mi systemy biznesowe, że były w tych niebieskich okienkach i tak dalej. I myślę, ej, to jest całkiem interesujące, chciałbym to kiedyś robić. I wiesz co? I ta myśl mi tak utkwiła w głowie gdzieś tam z tyłu, ja ją sobie zostawiłem w spokoju, czasami podlewałem, typu...
+
+O, wiesz co, to może pójdę sobie na przykład na ten kursik albo a, to może odezwę się do tej firmy, bo robią fajne rzeczy. Mhm. I wiesz co, i to wszystko mnie centralnie doprowadziło do tego, że zrealizowałem to marzenie, kurczę, tak bardzo, że chyba bardziej się go nie da zrealizować. Tym, że miałem okazję wylecieć do Stanów, pracować tam w super zajebistych firmach. Nice. I to mi tak wjechało.
+
+Czy twój program to było myślenie o systemach biznesowych i firmie, która wdraża te systemy biznesowe? Tak, tak. To było to, wiesz? Nice. I takich rzeczy było więcej. To jest to, jak powstał ten startup. Jak myślałem przez dłuższy czas, no kurczę, chciałbym mieć ten startup, chciałbym mieć ten startup. Fajnie by było z tymi startupami, no. I później dzwonię do znajomego po paru latach.
+
+nie widząc go, nie słysząc. Co tam u Ciebie? A, wiesz co, bo kleimy taki startup z chłopakami, może chciałbyś dołączyć? I w tym momencie, wiesz, wjeżdżam ja, cały na biało. Ale Ty mówisz o tym konkretnym startupie? No ja mówię, tak, ja mówię o tym właśnie miejscu. Wytnę to. Wytniesz to, oczywiście, że to wytniesz, ale to był właśnie to, wiesz, myślałem o tym i mi wjechało. No to jest książka "Potęga Podświadomości"? Mam ją chyba nawet, tak.
+
+bardzo znana. Każdy kto się interesował psychologią, nawet tą psychologią, tą świecką, tą nie mistyczną, tą psychologią bez czarów i magii, o której my tu rozmawiamy. Bez czarów i magii, podoba mi się. Psychologia bez czarów i magii. Świetny ten trademark, psychologia bez czarów i magii. Ale ja właśnie chcę psychologię z czarami i magią, bo dla mnie świat bez czarów i magii to jest... Ja rozumiem, wiesz, to jest super fajne. A propos, tutaj chciałbym trochę polatać w tym miejscu.
+
+Myślę, że sobie zrobię taki prezent. O! I tego typu rzecz, ten tunel, nie tunel aerodynamiczny, tylko to latanie w turbinie, to jest coś, co sobie dopisać do kalendarza, rzeczy takich super fajnych. Dobra, Maciek, tylko teraz zrobiłeś chodzenie po Warszawie bez celu. Ja chcę położyć się w tym Pałacu Kultury i się skupić na tej jednej rzeczy. Dobrze, to zawijmy do Pałacu Kultury. I słuchaj, dochodzi pierwsza,
+
+Ja biorę namiary na dom. Dobrze, oczywiście. Gdzie chcemy zawrócić? Do którego miejsca? O Panie, dwadzieścia trzy minuty po pierwszej. Małymi kroczkami, idąc Twoją teorią malutkich kroczków, ja potrzebuję spisać sobie mój życiorys. Potrzebuję wypisać te definiujące momenty z mojego życia.
+
+i potrzebuję zdefiniować sobie moje życie na nowo. Dobra. To mamy... mamy... mamy program. W sensie będziemy spisywać, gadać, a tutaj będziemy wrzucać tylko te rzeczy, o których możemy powiedzieć. Tak. Tak. Tak, wiesz, i powiem ci, że na przykład to, co... Ej, dobra, posłuchaj. Ej, to jest bardzo proste. Będziemy... gadamy do siebie... Tak. I zrobimy to. A do sieci będziemy wrzucać wersję ocenzurowaną.
+
+Tak! Tak, stary, to fajnie! Zajebiste! Zajebiste, kurwa! To jest wreszcie totalnie ten cały Soul Captain, o którym od tylu lat... Zajebiste! Tak! To jest Soul Captain! To jest dokładnie to! Napisz swój program! Ty rządzisz, napisz swój program! Napisz swój program! Dokładnie to! Stary, bardzo się cieszę, że to z Tobą robię! Ja też! I powiem Ci, taka furka mi się bardzo podoba i mógłbym taką mieć! Wpiszesz to w swój program? Wpiszę sobie w swój program! Swój plan? Chociaż, wiesz co, strasznie mi się podobał Porsche 911 GT3 RS
+
+I siedziałem w nim kiedyś. Na lotnisku Heathrow. Na tym samym lotnisku, na którym w loterii wygrałem 100 tysięcy funtów. Ty wygrałeś na loterii 100 tysięcy? No kurde, jak nie? A mówiłeś mi kiedyś chyba o tym. Stary, wygrałem na loterii 100 tysięcy. Wszystko przepuściłem, no ale doświadczenie było super. Mówiłeś mi o tym, a ja o tym zapomniałem. Tak. Każdego cholernego dnia myślałem o tej wygranej. Przez miesiąc.
+
+Któregoś pięknego dnia dzwoni telefon i pan mówi, czy to jest pan Mieszko Kępka z Polski? A ja mówię, tak, to jestem ja. Wie pan co, bo brał pan udział w naszej loterii, nie wiem czy pan pamięta, a ja sobie myślę wtedy, o jasne, pamiętam cię mój drogi przyjacielu. No i co z tą loterią? No niestety nie wygrał pan głównej nagrody, ale mamy dla pana nagrodę pocieszenia.
+
+A co to była za firma? Firma? Co to była za loteria? Wiesz co, nie pamiętam, jak oni się nazywali, ale to była jakaś taka loteria, gdzie po prostu na obrazku... Bo ty coś mówiłeś, że mnóstwo wizytówek wypełniłeś. Tak, no przecież ja wydałem chyba 800 funtów na losy tej loterii. Wiesz co, bo zaufałem panu, który powiedział, wiesz co, kup tyle, to na pewno będzie łatwiej wygrać. Ja cię wybiorę, nie?
+
+I kurde, nie kłamał. I nie kłamał, kurcze, nie kłamał. Żartujesz. Serio, nie kłamał. Ile miałeś lat wtedy? Miałem wtedy 27 lat, to był dokładnie ten mój peak. Peak experience. Ten peak experience. No kurde, przecież ja miałem hajsu tyle, że mogłem swobodnie kupić mieszkanie, które spłaciłbym po dwóch latach.
+
+Kurde, ale to czekaj, czyli twój peak moment to był wtedy, kiedy los ci się poszczęścił? Tak, ale ten los się poszczęścił, bo dbałeś o to, żeby ci się poszczęścił. No dobra, wydawałeś 800 funtów, okej. Tak, ale to była ta, wiesz, to była ta okazja, którą mogłem wziąć. Czułem po prostu taki flow od tego ziomka, że sobie myślę, dobra, zaryzykuję, ale tak bez oczekiwań. Nie blokowałeś dobrych przypływów energii?
+
+Tak, i nie napinałem się na to, że czy wyjdzie, czy nie wyjdzie, tylko byłem dobrej myśli. Wyjdzie, super, nie wyjdzie - też spoko. Żeby się nie napinać, a wydać 800 funtów, to trzeba mieć naprawdę luz. Wiesz co, naprawdę trzeba mieć luz, stary, i to jest taki piękny luz. O Boże, to jest najlepszy luz na świecie.
+
+Daj spokój. Podziwiam, podziwiam, podziwiam. Serio, to jest najlepszy luz na świecie. Życzę Ci takiego luzu. Myślisz, dobra, ale... Ale ty modliłeś się o to? Medytowałeś nad tym, żeby przyszły pieniądze? Czy medytowałeś nad tym, żeby była... Medytowałem nad tym, żeby po pierwsze się nie napiąć. Ale mówię, zanim doszło do loterii. Tak. Czy medytowałeś nad czymś? Myślałeś, marzyłeś? Nie. Nie. Nie. Nie marzyłem wcześniej. Ale musiałeś mieć jakieś pragnienia, nie wiem, żeby mieć pieniądze, no.
+
+O wow, skąd mi się to wzięło, nie wiem. Być może. Czy to był totalny chaos? Nie wiem. Nie pamiętam. Czy jednak wszechświat jest mentalny? Czy nie jesteś w stanie sobie przypomnieć teraz, na jakich wibracjach byłeś, na jakiej częstotliwości? Wiem, na jakich byłem wibracjach. Byłem na wibracjach fajnej fury. Okej. To chciałem. Ja chciałem furę. Okej. Widzisz, to było najgorsze. Najgorsze było to, że nie przemyślałem tego do końca.
+
+Bo to była loteria z samochodami. Można było Audi R8, które mi się zajebiste podobało wtedy. O Boże, to jest tak piękny wózek. Chciałbym go nadal mieć. Było Audi R8, było Porsche GT3 RS. Ale wiesz co, teraz wyobraziłem sobie jakiś film, gdzie jest jakaś księżniczka lodów czy czarownica i tak ona mówi, o kurwa, o kurwa, a ta młodsza uczennica mówi, co starsza czarodziejko. Ona: o kurwa, moja wizja jest nieostra.
+
+O Boże, to jest dokładnie to, że w centrum moja wizja jest nieostra. Jak nie masz ostrej wizji, to cię to już nie prowadzi w tej wizji. No kurde, to jest tak wkurzające. Trzeba mieć turbo ostrą wizję. Trzeba mieć turbo ostrą. O, i wiesz co? I nad tym trzeba pracować. I nad tym się da pracować, wiesz? I to ta świadomość Ci to daje. No. Jak masz tę świadomość i tę teraźniejszość, tę obecność,
+
+i doświadczenie, które ci mówi, hej, trzeba myśleć o tej całości i być skupionym na wszystkim, to wtedy się nagle to otwiera. Trochę się rozproszę, bo przypomniała mi się dyskusja na jednym planowaniu. Piękne, o, piękne. Ktoś mi powiedział, po co dalej planować ten sprint, skoro już możemy zacząć kodować?
+
+Po co dalej planować ten sprint skoro już możemy zacząć kodować? Zaczniemy kodować. Ktoś przyszedł w koszulce, że tydzień planowania ci może oszczędzić dwa tygodnie kodowania? Jak to było?
+
+Jak to było? Pamiętasz, o czym mówię? Nie pamiętam, ale wiem, o czym mówisz. "Tydzień planowania może oszczędzić dwa tygodnie kodowania." Or something. Nie pamiętam tego dokładnie, ale to jest bardzo... Wiesz, to jest kwintesencja. Dopóki ty nie zobaczysz i nie poczujesz tego sprintu, to ty go nie zaczynaj. Masz siedzieć, aż go poczujesz, całego. Znaczy, to jest jedna z metod, bo... Widzisz go, jak on wygląda, jak się kończy. Tak, ale też nie można za dużo planować, w sensie... Ja nie wiem, jaka jest zdrowa...
+
+zdrowa granica, no bo nie możesz siedzieć jak ten mnich buddyjski medytując, medytując, bo nie wymyślisz, też musisz zdobyć jakieś doświadczenie. Trzeba wstać, pochodzić, doświadczyć. Ja myślę, że tutaj kluczowe jest to, żeby powracać do tej medytacji. A może chodzi o to, żeby medytować robiąc? Świadomie. Nie, że masz tę metodę, że medytujesz, medytujesz i później, dobra, teraz będę robił. I robisz. Tylko robiąc świadomie.
+
+Skoro nie byłeś... Wróćmy do tego przykładu z tą furą, bo fajny. Skoro nie wiedziałeś dokładnie, jaki model chcesz i tak dalej, no to los ci dał hajs. Wiesz co, tak. Ale dał ci hajs chociaż na taką furę? Czy na cztery koła? Nie, wiesz co, gorzej. Dał mi hajs na inną furę, która też mi się podobała. Okej, w sumie mogłem ją kupić wtedy za ten hajs. Tak na luzie. Ale co, stamina się skończyła i zabrakło odwagi?
+
+Myślę, że tak, wiesz? Spękałem, żeby ją kupić. Bo jak sobie myślę, a kupię sobie furę, ale fajnie byłoby mieć mieszkanie może... Ale widzisz, ale tak to jest. Ale spękałem, tak dokładnie spękałem. Ale tak to jest. Modlimy się do tego Boga, modlimy i modlimy. Ale jak w końcu Najwyższy zsyła nam...
+
+namiastkę tego, co chcemy, to ja mówię, ja nie zasługuję, ja jestem niegodzien, wstydzę się, jestem nagi. Jestem tylko człowiekiem wobec tego dobrodziejstwa. Wiesz co, powiem ci, że już mi się przestał podobać ten podcast i ja już może lepiej poszedłbym do domu, bo tutaj wjeżdżamy w mój temat, w mój temat. Słuchaj, trzymałem 15, nie, dłużej, 20 lat temu,
+
+Miałem hajs na koncie, trzymałem w ręku sampler, który mi się super podobał. Korg Electribe, nieważny model. W każdym razie miałem go w łapach, chciałem go mieć. Pożądałem. To był ten moment, kiedy trzeba go było kupić.
+
+Miałem wtedy tyle lat, że mógłbym spokojnie nauczyć się nim władać, nauczyć się robienia muzy i tak dalej. Mógłbym to zrobić po prostu na luzie, o tak. Ale to jest naprawdę taka trauma, że chcę się z tego leczyć. To jest strasznie wkurzające, wiesz? Że Najwyższy dał ci hajs na sampler, który chcesz mieć, instrument, a ty nie potrafiłeś go kupić. Tak. Wiesz, było jeszcze gorzej później. Później było jeszcze gorzej.
+
+Później miałem hajs, miałem dużo hajsu i widziałem świetny syntezator, który mi się super podobał. I wiesz co zrobiłem? Oglądałem go, oglądałem, jarałem się nim. I wiesz co? I spękałem. Pożałowałem tego, nie wiem, prawie dwóch tysięcy dolarów. Kurde, ale wydawałem więcej hajsu na jakieś głupoty. To jest w ogóle śmieszniejsze jeszcze. I nie kupiłem go w końcu. Brak skupienia.
+
+Jak chciałem go, naprawdę, ale w końcu spękałem, wiesz? Nie miałeś skupienia. Nie miałem skupienia, wiesz? Może zapomniałem, że to jest to, co ja chcę. I było tak, ej stary, kurde, możesz to mieć, możesz mieć swoje marzenie. On jest tutaj, już jest zapłacone.
+
+Już jest zapłacone, pakujesz do pudełka i... Konie zaprzęgnięte, wsiadasz do karety. Konie zaprzęgnięte, wsiadasz do karety. Serio. I ja pękam w takich momentach. Nie wiem, co się ze mną dzieje. I to jest temat kompletnie na terapię, wiesz? To jest bardzo smutny temat, bo ja czuję, że przez to mi życie ucieka, wiesz? O, i teraz, wiesz, widzę, że mi przez to życie ucieka. Ale to jest przykre. Ja myślę, że ostatnio...
+
+Myślę, że ostatnio sobie całkiem nieźle radzisz, jeśli chodzi o opiekowanie się sobą i podejmowanie dobrych... Tak, tak, już zaopiekowałem się sobą i kupiłem sobie samochód. Dobra, okej, dobra, to czekaj, bo chcę Ci trochę wyciągnąć z tego dołka, w który wlazłeś, bo mówiłem o tym, że czasami medytujesz nad czymś, nie wiem, nad dziewczyną marzeń, albo startupem marzeń, albo biznesem, albo modelem samochodu i...
+
+Młodsza czarodziejko, wizja jest nieostra, tak? Wizja jest nieostra, czarodziejko, wizja jest nieostra. O, piękny tekst. Teraz zabrzmiałem strasznie cringe'owo i przesadnie i w ogóle, ale wyobraź sobie, że twoje rzeczy to właśnie były te momenty skupienia i te rozluźnienia, kiedy szukałeś. Że wszystko jest okej.
+
+Ale ty rozumiesz? Wejdź w to, wejdź. Wejdź głębiej na chwilę. Ty medytowałeś całe życie, tylko miałeś po prostu kilka momentów, kiedy się rozglądałeś po świecie, czy to jest w porządku, czy nie, i wracasz do tej medytacji. Ale ja kompletnie wracam, bo ja wiem, że muszę do niej wrócić, bo po prostu będę zły na siebie, jak znowu dostanę na tacy podane coś złego.
+
+Jeszcze nie jesteś na mojej wibracji. Ty byłeś w tych miejscach, potrafisz w nich być i to wszystko, co się teraz wydarzyło, to nie jest nic złego, to nie jest stracony czas, tylko są te momenty, kiedy musiałeś przestać medytować, żeby zaczerpnąć składniki do wizji, doświadczenie do wizji. Rozumiesz czy nie? Tak, rozumiem. Wiesz, mówisz jak mój psycholog, nie podoba mi się to.
+
+Poważnie mówisz? Poważnie. Ale ja nie mam żadnego wykształcenia w tym kierunku. Ale nie, nie, nie. Znaczy w sensie ja już miałem tego typu rozmowę, tak? Że to nie jest stracony czas, że to jest ważne doświadczenie, które mi przyszło i tak dalej. Dobra, ale ja Ci nie chcę mówić, że to nie jest... Znaczy chcę Ci powiedzieć, że to nie jest stracony czas, ale chcę żebyś zrozumiał dlaczego.
+
+Oj, będzie ci bardzo ciężko mnie przekonać, ponieważ mam bardzo silne przekonanie, że był to stracony czas, ale... To wiesz, co ci powiem, stary, to jest twój problem. To jest twoje wewnętrzne dziecko. Jeśli ty jesteś tak przekonany, to nasz zespół nie będzie grał. To będziemy pauzować. A ja tę płytę chcę wypuścić. I wiesz co? I mam to w dupie. Ty się zaopiekuj sobą. Ty się, chłopie, zaopiekuj sobą. Ja się zaopiekuję sobą. To jest dla mnie temat do przerobienia na terapii i ja wiem, że go potrzebuję przerobić.
+
+Nie podoba mi się. Wiem, I know. Wiesz co mi się bardzo podoba? Bardzo mi się podoba ta twoja dyscyplina w niebraniu tego.
+
+To twoje gówno, włóż je do szafy, składaj je w szafie. Bo to twoje gówno, włóż je do szafy, otwórz okno, zamknij okno i zostaw je w swoim pokoju.
+
+To mówił Morty do Summer w jednym z odcinków. Nie wiem, czy to jest taka dyscyplina, bo... Ale tak, to jest dyscyplina, to jest super dyscyplina. Ja odkryłem w pewnym momencie, że w swoim życiu zachowuję się w taki sposób,
+
+Czujesz się ze sobą niefajnie? Czujesz się niedowartościowany? Czujesz się, że sobą się nie opiekujesz? Więc jak na siłę będę się opiekował innymi i będę ulegał innym i kompulsom innych, to się zrównoważę. Jakieś odrabianie karmicznej pracy domowej, wiesz? Bullshit. Tylko wtedy, kiedy weźmiesz odpowiedzialność za siebie i tylko za siebie,
+
+To jest najważniejsze. Nie masz wpływu na inne osoby. Tylko na siebie. Tylko na siebie. Nie masz wpływu... Uwaga! To, czego mnie nauczyli na terapii dwunastu kroków, to jest to, że ja nie mam wpływu na inne osoby. Tak, ale... Bo ja mogę powiedzieć drugiej osobie "pięknie wyglądasz", ona mnie przytuli i pocałuje, a powiem drugiej osobie "pięknie wyglądasz", ona mnie kopnie w kostkę, bo ma nieumyte włosy, a ja tego nie zauważyłem.
+
+Ja nie mam na to wpływu!
+
+Rozumiesz? To prawda, rozumiem to. Ja mam wpływ na to, jak ja się zachowuję, kim ja jestem, co robię. Ja mogę mieć intencje, żeby być dobrym dla innych, tak? I mówiąc komuś "fajnie wyglądasz", mogę mieć intencje, że naprawdę chcę to powiedzieć. Ale mimo moich najlepszych intencji, ona mnie kopnie w kostkę, bo nie umyła głowy. Powiem ci szczerze, z podwójną gwiazdką - uwaga jest taka, że różne osoby na dokładnie ten sam bodziec mogą zareagować kompletnie inaczej, więc nie ma się co przejmować kompletnie, totalnie.
+
+Tak naprawdę najlepsze, co możesz zrobić innym, to powiedzieć: to nie jest mój problem, to jest twój problem. Bo wtedy dbasz, stawiasz granice, jesteś asertywny, dbasz o siebie i mało tego, dajesz tej drugiej osobie punkt odniesienia. Tak. Bo... Jak to było na tym festiwalu, gdzie ludzie biorą narkotyki i palą wielką kukłę w środku Stanów Zjednoczonych? Burning Man? Burning Man Festival. Tam ktoś powiesił taką kartkę:
+
+"Bądź tym, kim chcesz być, bo ci którzy się liczą, nie mają nic przeciwko, a ci którzy mają coś przeciwko, się nie liczą." Niech to zatonie. "Mayday, mayday, we are sinking." "This is German Coast Guard. What are you thinking about?"
+
+Niech ojciec święty powie coś po polsku! Obrońcy Poczty Polskiej, poddajcie się! To jak... To jak Ratzinger był w Polsce, w Krakowie. O Boże! Nie znałeś tego? Nie znałem!
+
+Strasznie to lubię, strasznie to lubię. Bardzo lubię śmiać się z Niemców. To nie jest ładnie wypominać komuś złe zachowanie z przeszłości, ale ja się bardzo lubię śmiać z Niemców, zwłaszcza z tego, co zrobili podczas II wojny światowej. O Boże, to jest tak mocne.
+
+Niech Ojciec Święty coś powie po polsku! Pozdrawiam wszystkich Polaków! Świetnie mówisz po polsku, Ratzinger! Powiedz coś więcej! Obrońcy Poczty Polskiej! Poddajcie się! O Boże! To jest tak piękne! Pan Papież!
+
+Jakie to jest piękne, przecież cudowne. O Boże. Dawno nie słyszałem czegoś, co mi tak rozbawiło. Dziękuję ci bardzo. Dziękuję. Dziękuję, Romualdzie. Ratzinger był jednego papieża wstecz czy dwa papieże wstecz? Jednego papieża wstecz. Bo teraz jest jakiś taki liberalny... Tak, taki tęczowy ten papież jest. Z Argentyny? Z Hiszpanii? Skąd on jest? Nie wiem. Argentyna? Nie mam pojęcia.
+
+Ale taki w porządku gość. Ej, bardzo dziękuję. Wiesz co, powoli będziemy się zbliżali do końca naszego wywnętrznienia...
+
+Nagrania. I powiem Ci, że bardzo dobry flow wjechał w ostatniej... w ostatniej pół godzinie. I jestem naprawdę... O, nawet mi się głos zmienił. To jest super. Wiesz co, jak ja miałem tak podsumować, to obawiałem się w sensie, żeby to zrobić. Cieszę się, że zrobiliśmy. Ej, stary, tak po prostu tak wjechało. I... No i teraz jest dla mnie najtrudniejszy moment, czyli
+
+Praca domowa, tak? Odrobić nową pracę, czyli wziąć to, wyciąć z tego peak moments i formative moments. Tak
+
 
