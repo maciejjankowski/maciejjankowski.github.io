@@ -62,8 +62,6 @@
 
 ***
 
-## Corrected Text:
-
 **Może taki tytuł? Brutcast, czyli to nie jest moja odpowiedzialność czekając na kebaba.** Nie, to może, to może, wiesz, nie wiem, czy ci też wysłałem tę wiadomość na temat mantra on demand. M.O.D. to jest nowy serwis, nowy typ serwisu. Dobre! Zamawiasz, płacisz 5 zł i możesz dostać mantrę.
 
 To wiesz co? To tutaj mam kolegę, który wymyślił coś takiego, ale to były negatywne mantry. On chciał sprzedawać kasety, gdzie przez godzinę na jednej stronie było "JESTEŚ ZEREM! JESTEŚ ZEREM! JESTEŚ NIKIM! NIC NIE UMIESZ! JESTEŚ ZEREM!" On to tak ekstra soczyście wyreżyserował.
